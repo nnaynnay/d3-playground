@@ -8,13 +8,16 @@ mongoose.connect(DB_CONN, { keepAlive: true, useNewUrlParser: true });
 
 app.get('/buildings', (req, res) => {
     const Building = require('./models/building');
-    Building.find({}, 'EnglishBuildingName YearBuild OwnersCorporation EnglishPublicHousingType', function (err, result) {
-        if (err) {
-            console.error(err);
-            res.end();
-        }
-        res.json(result);
-    });
+    Building.find(
+        {},
+        'EnglishBuildingName YearBuild OwnersCorporation EnglishPublicHousingType',
+        (err, result) => {
+            if (err) {
+                console.error(err);
+                res.end();
+            }
+            res.json(result);
+        });
 });
 
 mongoose.connection
