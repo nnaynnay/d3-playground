@@ -1,0 +1,32 @@
+.overlay {
+    fill: none;
+    pointer-events: all;
+    cursor: crosshair;
+}
+
+.tooltip-text {
+    fill: rgb(0, 52, 89);
+    font-family: 'Oswald', sans-serif;
+}
+
+.tooltip-pointer circle {
+    fill: rgb(0, 52, 89);
+    stroke: rgba(0, 52, 89, 0.3);
+    stroke-width: 6px;
+}
+
+.tooltip-line {
+    stroke: #efefef;
+}
+
+.tooltip-box {
+    font-family: 'Oswald', sans-serif;
+    font-size: 36px;
+    fill: rgb(0, 52, 89);
+}
+
+.tooltip-box rect {
+    fill: rgba(255, 255, 255, .9);
+    stroke: #AAA;
+    stroke-width: 1px;
+}

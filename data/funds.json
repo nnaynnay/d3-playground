@@ -1,0 +1,9385 @@
+[{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e993a"
+	},
+	"code": 600404,
+	"name": "Principal  China  Equity  Fund ",
+	"provider": "\nPrincipal  (800)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "19.34%",
+	"1Year": "+50.73%",
+	"YTD": "+14.16%",
+	"6Month": "+26.36%",
+	"3Month": "+18.00%",
+	"1Month": "+14.16%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e993b"
+	},
+	"code": 600405,
+	"name": "Principal  China  Equity  Fund ",
+	"provider": "\nPrincipal  (800)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "19.34%",
+	"1Year": "+50.23%",
+	"YTD": "+14.13%",
+	"6Month": "+26.15%",
+	"3Month": "+17.91%",
+	"1Month": "+14.13%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e993c"
+	},
+	"code": 600097,
+	"name": "BCOM  China  Dynamic  Equity  (CF)  Fund",
+	"provider": "\nBCOM  (Joyful)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "19.34%",
+	"1Year": "+50.01%",
+	"YTD": "+14.10%",
+	"6Month": "+26.07%",
+	"3Month": "+17.84%",
+	"1Month": "+14.10%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e993d"
+	},
+	"code": 600237,
+	"name": "Chinese  Equity  Fund",
+	"provider": "\nHang  Seng  (SuperTrust  Plus)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "20.35%",
+	"1Year": "+51.33%",
+	"YTD": "+10.87%",
+	"6Month": "+25.76%",
+	"3Month": "+16.78%",
+	"1Month": "+10.87%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e993e"
+	},
+	"code": 600268,
+	"name": "Chinese  Equity  Fund",
+	"provider": "\nHSBC  (SuperTrust  Plus)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "20.35%",
+	"1Year": "+51.33%",
+	"YTD": "+10.87%",
+	"6Month": "+25.76%",
+	"3Month": "+16.78%",
+	"1Month": "+10.87%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e993f"
+	},
+	"code": 600176,
+	"name": "BOC-Prudential  China  Equity  Fund",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "19.93%",
+	"1Year": "+46.78%",
+	"YTD": "+13.00%",
+	"6Month": "+25.26%",
+	"3Month": "+17.08%",
+	"1Month": "+13.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9941"
+	},
+	"code": 600286,
+	"name": "Hang  Seng  H-Share  Index  Tracking  Fund",
+	"provider": "\nHSBC  (ValueChoice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "23.32%",
+	"1Year": "+41.53%",
+	"YTD": "+15.74%",
+	"6Month": "+24.95%",
+	"3Month": "+17.49%",
+	"1Month": "+15.74%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9942"
+	},
+	"code": 600255,
+	"name": "Hang  Seng  H-Share  Index  Tracking  Fund",
+	"provider": "\nHang  Seng  (ValueChoice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "23.32%",
+	"1Year": "+41.53%",
+	"YTD": "+15.74%",
+	"6Month": "+24.95%",
+	"3Month": "+17.49%",
+	"1Month": "+15.74%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9943"
+	},
+	"code": 600145,
+	"name": "BEA  China  Tracker  Fund",
+	"provider": "\nBEA  (Industry)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "22.92%",
+	"1Year": "+40.64%",
+	"YTD": "+15.88%",
+	"6Month": "+24.74%",
+	"3Month": "+17.35%",
+	"1Month": "+15.88%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9940"
+	},
+	"code": 600585,
+	"name": "Principal  Dynamic  Greater  China  Equity  Fund",
+	"provider": "\nPRHK  (Smart)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "17.14%",
+	"1Year": "+51.40%",
+	"YTD": "+8.86%",
+	"6Month": "+25.11%",
+	"3Month": "+15.11%",
+	"1Month": "+8.86%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9944"
+	},
+	"code": 600161,
+	"name": "BEA  China  Tracker  Fund",
+	"provider": "\nBEA  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "22.89%",
+	"1Year": "+40.61%",
+	"YTD": "+15.89%",
+	"6Month": "+24.71%",
+	"3Month": "+17.34%",
+	"1Month": "+15.89%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9945"
+	},
+	"code": 600188,
+	"name": "My  Choice  China  Equity  Fund",
+	"provider": "\nBOCI-Prudential  (My  Choice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "16.82%",
+	"1Year": "+51.00%",
+	"YTD": "+8.08%",
+	"6Month": "+24.44%",
+	"3Month": "+14.39%",
+	"1Month": "+8.08%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9946"
+	},
+	"code": 600341,
+	"name": "Manulife  MPF  Hong  Kong  Equity  Fund",
+	"provider": "\nManulife  (Global)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "18.03%",
+	"1Year": "+48.31%",
+	"YTD": "+8.34%",
+	"6Month": "+24.08%",
+	"3Month": "+14.63%",
+	"1Month": "+8.34%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9947"
+	},
+	"code": 600369,
+	"name": "Greater  China  Equity  Fund",
+	"provider": "\nMassMutual  (MASS)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "15.14%",
+	"1Year": "+50.03%",
+	"YTD": "+8.04%",
+	"6Month": "+24.03%",
+	"3Month": "+14.20%",
+	"1Month": "+8.04%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9948"
+	},
+	"code": 600227,
+	"name": "Haitong  Hong  Kong  SAR  Fund ",
+	"provider": "\nHaitong  (MPF)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "18.42%",
+	"1Year": "+55.40%",
+	"YTD": "+8.52%",
+	"6Month": "+23.32%",
+	"3Month": "+15.96%",
+	"1Month": "+8.52%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9949"
+	},
+	"code": 600226,
+	"name": "Haitong  Hong  Kong  SAR  Fund ",
+	"provider": "\nHaitong  (MPF)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "18.44%",
+	"1Year": "+55.28%",
+	"YTD": "+8.53%",
+	"6Month": "+23.28%",
+	"3Month": "+15.96%",
+	"1Month": "+8.53%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e994a"
+	},
+	"code": 600193,
+	"name": "My  Choice  Hong  Kong  Equity  Fund",
+	"provider": "\nBOCI-Prudential  (My  Choice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.58%",
+	"1Year": "+47.15%",
+	"YTD": "+9.70%",
+	"6Month": "+22.56%",
+	"3Month": "+16.11%",
+	"1Month": "+9.70%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e994b"
+	},
+	"code": 600177,
+	"name": "BOC-Prudential  CSI  HK  100  Tracker  Fund",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.58%",
+	"1Year": "+46.94%",
+	"YTD": "+10.04%",
+	"6Month": "+22.34%",
+	"3Month": "+16.50%",
+	"1Month": "+10.04%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e994c"
+	},
+	"code": 600441,
+	"name": "Allianz  Greater  China  Fund ",
+	"provider": "\nAllianz  Global  Investors",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.78%",
+	"1Year": "+40.20%",
+	"YTD": "+10.43%",
+	"6Month": "+22.27%",
+	"3Month": "+14.10%",
+	"1Month": "+10.43%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e994d"
+	},
+	"code": 600201,
+	"name": "China  Life  Hong  Kong  Equity  Fund",
+	"provider": "\nChina  Life  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.72%",
+	"1Year": "+46.62%",
+	"YTD": "+9.55%",
+	"6Month": "+22.26%",
+	"3Month": "+15.94%",
+	"1Month": "+9.55%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e994e"
+	},
+	"code": 600439,
+	"name": "Allianz  Greater  China  Fund ",
+	"provider": "\nAllianz  Global  Investors",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.78%",
+	"1Year": "+39.57%",
+	"YTD": "+10.44%",
+	"6Month": "+22.18%",
+	"3Month": "+14.03%",
+	"1Month": "+10.44%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e994f"
+	},
+	"code": 600218,
+	"name": "Hong  Kong  Equity  Fund",
+	"provider": "\nFidelity  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "18.26%",
+	"1Year": "+46.35%",
+	"YTD": "+9.64%",
+	"6Month": "+22.15%",
+	"3Month": "+16.01%",
+	"1Month": "+9.64%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9950"
+	},
+	"code": 600321,
+	"name": "Hong  Kong  and  China  Equity  Fund ",
+	"provider": "\nInvesco  (Strategic)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "18.35%",
+	"1Year": "+49.31%",
+	"YTD": "+8.48%",
+	"6Month": "+22.14%",
+	"3Month": "+14.92%",
+	"1Month": "+8.48%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9951"
+	},
+	"code": 600440,
+	"name": "Allianz  Greater  China  Fund ",
+	"provider": "\nAllianz  Global  Investors",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.78%",
+	"1Year": "+40.34%",
+	"YTD": "+10.46%",
+	"6Month": "+22.13%",
+	"3Month": "+14.04%",
+	"1Month": "+10.46%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9952"
+	},
+	"code": 600320,
+	"name": "Hong  Kong  and  China  Equity  Fund ",
+	"provider": "\nInvesco  (Strategic)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "18.35%",
+	"1Year": "+49.13%",
+	"YTD": "+8.47%",
+	"6Month": "+22.07%",
+	"3Month": "+14.88%",
+	"1Month": "+8.47%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9953"
+	},
+	"code": 600128,
+	"name": "BCT  (Pro)  Hong  Kong  Equity  Fund",
+	"provider": "\nBCT  (Pro)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.90%",
+	"1Year": "+46.04%",
+	"YTD": "+9.59%",
+	"6Month": "+22.03%",
+	"3Month": "+15.88%",
+	"1Month": "+9.59%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9954"
+	},
+	"code": 600113,
+	"name": "BCT  (Industry)  Hong  Kong  Equity  Fund",
+	"provider": "\nBCT  (Industry)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.93%",
+	"1Year": "+45.96%",
+	"YTD": "+9.62%",
+	"6Month": "+22.02%",
+	"3Month": "+15.89%",
+	"1Month": "+9.62%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9955"
+	},
+	"code": 600041,
+	"name": "Hong  Kong  and  China  Fund",
+	"provider": "\nAIA  (Prime)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "18.14%",
+	"1Year": "+43.30%",
+	"YTD": "+11.17%",
+	"6Month": "+21.97%",
+	"3Month": "+16.28%",
+	"1Month": "+11.17%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9956"
+	},
+	"code": 600525,
+	"name": "Sun  Life  MPF  Hong  Kong  Equity  Fund ",
+	"provider": "\nSun  Life  (Rainbow)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "15.13%",
+	"1Year": "+43.67%",
+	"YTD": "+7.90%",
+	"6Month": "+21.94%",
+	"3Month": "+13.38%",
+	"1Month": "+7.90%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9957"
+	},
+	"code": 600062,
+	"name": "AMTD  Invesco  Hong  Kong  and  China  Fund",
+	"provider": "\nAMTD  (MPF)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.93%",
+	"1Year": "+47.91%",
+	"YTD": "+8.44%",
+	"6Month": "+21.92%",
+	"3Month": "+14.83%",
+	"1Month": "+8.44%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9958"
+	},
+	"code": 600100,
+	"name": "BCOM  Greater  China  Equity  (CF)  Fund",
+	"provider": "\nBCOM  (Joyful)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "17.74%",
+	"1Year": "+39.56%",
+	"YTD": "+10.42%",
+	"6Month": "+21.91%",
+	"3Month": "+13.95%",
+	"1Month": "+10.42%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9959"
+	},
+	"code": 600524,
+	"name": "Sun  Life  MPF  Hong  Kong  Equity  Fund ",
+	"provider": "\nSun  Life  (Rainbow)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "15.13%",
+	"1Year": "+43.38%",
+	"YTD": "+7.88%",
+	"6Month": "+21.82%",
+	"3Month": "+13.33%",
+	"1Month": "+7.88%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e995a"
+	},
+	"code": 600117,
+	"name": "BCT  (Pro)  China  \u0026  Hong  Kong  Equity  Fund",
+	"provider": "\nBCT  (Pro)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "18.40%",
+	"1Year": "+48.40%",
+	"YTD": "+8.38%",
+	"6Month": "+21.77%",
+	"3Month": "+14.72%",
+	"1Month": "+8.38%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e995b"
+	},
+	"code": 600568,
+	"name": "Hang  Seng  Index  Tracking  Fund ",
+	"provider": "\nInvesco  (Strategic)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.04%",
+	"1Year": "+44.08%",
+	"YTD": "+10.10%",
+	"6Month": "+21.47%",
+	"3Month": "+16.10%",
+	"1Month": "+10.10%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e995c"
+	},
+	"code": 600567,
+	"name": "Hang  Seng  Index  Tracking  Fund ",
+	"provider": "\nInvesco  (Strategic)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.04%",
+	"1Year": "+44.01%",
+	"YTD": "+10.09%",
+	"6Month": "+21.43%",
+	"3Month": "+16.09%",
+	"1Month": "+10.09%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e995d"
+	},
+	"code": 600533,
+	"name": "Sun  Life  MPF  Greater  China  Equity  Fund ",
+	"provider": "\nSun  Life  (Rainbow)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "18.22%",
+	"1Year": "+42.10%",
+	"YTD": "+9.55%",
+	"6Month": "+21.40%",
+	"3Month": "+13.90%",
+	"1Month": "+9.55%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e995e"
+	},
+	"code": 600194,
+	"name": "My  Choice  Hong  Kong  Tracking  Fund",
+	"provider": "\nBOCI-Prudential  (My  Choice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "16.94%",
+	"1Year": "+43.97%",
+	"YTD": "+10.08%",
+	"6Month": "+21.35%",
+	"3Month": "+16.06%",
+	"1Month": "+10.08%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e995f"
+	},
+	"code": 600170,
+	"name": "BEA  Hong  Kong  Tracker  Fund",
+	"provider": "\nBEA  (Value)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.02%",
+	"1Year": "+44.05%",
+	"YTD": "+10.07%",
+	"6Month": "+21.33%",
+	"3Month": "+16.03%",
+	"1Month": "+10.07%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9960"
+	},
+	"code": 600162,
+	"name": "BEA  Hong  Kong  Tracker  Fund",
+	"provider": "\nBEA  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "16.97%",
+	"1Year": "+43.98%",
+	"YTD": "+10.06%",
+	"6Month": "+21.31%",
+	"3Month": "+16.01%",
+	"1Month": "+10.06%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9963"
+	},
+	"code": 600532,
+	"name": "Sun  Life  MPF  Greater  China  Equity  Fund ",
+	"provider": "\nSun  Life  (Rainbow)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "18.22%",
+	"1Year": "+41.81%",
+	"YTD": "+9.54%",
+	"6Month": "+21.27%",
+	"3Month": "+13.84%",
+	"1Month": "+9.54%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9964"
+	},
+	"code": 600550,
+	"name": "Fidelity  Hong  Kong  Tracker  Fund",
+	"provider": "\nFidelity  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "17.56%",
+	"1Year": "+43.78%",
+	"YTD": "+10.04%",
+	"6Month": "+21.23%",
+	"3Month": "+15.94%",
+	"1Month": "+10.04%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9965"
+	},
+	"code": 600126,
+	"name": "BCT  (Pro)  Hang  Seng  Index  Tracking  Fund",
+	"provider": "\nBCT  (Pro)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.33%",
+	"1Year": "+44.14%",
+	"YTD": "+9.93%",
+	"6Month": "+21.17%",
+	"3Month": "+16.06%",
+	"1Month": "+9.93%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9961"
+	},
+	"code": 600338,
+	"name": "Manulife  MPF  Hang  Seng  Index  Tracking  Fund",
+	"provider": "\nManulife  (Global)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "16.79%",
+	"1Year": "+43.89%",
+	"YTD": "+10.10%",
+	"6Month": "+21.29%",
+	"3Month": "+16.06%",
+	"1Month": "+10.10%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9962"
+	},
+	"code": 600146,
+	"name": "BEA  Hong  Kong  Tracker  Fund",
+	"provider": "\nBEA  (Industry)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.00%",
+	"1Year": "+43.97%",
+	"YTD": "+10.08%",
+	"6Month": "+21.29%",
+	"3Month": "+16.04%",
+	"1Month": "+10.08%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9966"
+	},
+	"code": 600583,
+	"name": "Principal ",
+	"provider": "\nPRHK  (Smart)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "N/A",
+	"1Year": "+43.38%",
+	"YTD": "+10.01%",
+	"6Month": "+21.12%",
+	"3Month": "+15.89%",
+	"1Month": "+10.01%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9967"
+	},
+	"code": 600392,
+	"name": "Principal  Hang  Seng  Index  Tracking  Fund ",
+	"provider": "\nPrincipal  (600)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.26%",
+	"1Year": "+43.37%",
+	"YTD": "+10.02%",
+	"6Month": "+21.05%",
+	"3Month": "+15.88%",
+	"1Month": "+10.02%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9968"
+	},
+	"code": 600103,
+	"name": "BCOM  HSI  Tracking  (CF)  Fund",
+	"provider": "\nBCOM  (Joyful)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.26%",
+	"1Year": "+43.74%",
+	"YTD": "+9.90%",
+	"6Month": "+21.03%",
+	"3Month": "+15.98%",
+	"1Month": "+9.90%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9969"
+	},
+	"code": 600408,
+	"name": "Principal  Hang  Seng  Index  Tracking  Fund ",
+	"provider": "\nPrincipal  (800)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.25%",
+	"1Year": "+43.16%",
+	"YTD": "+10.03%",
+	"6Month": "+21.01%",
+	"3Month": "+15.84%",
+	"1Month": "+10.03%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e996a"
+	},
+	"code": 600167,
+	"name": "BEA  Greater  China  Equity  Fund",
+	"provider": "\nBEA  (Value)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "16.24%",
+	"1Year": "+45.45%",
+	"YTD": "+9.80%",
+	"6Month": "+20.98%",
+	"3Month": "+13.38%",
+	"1Month": "+9.80%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e996b"
+	},
+	"code": 600181,
+	"name": "BOC-Prudential  Hong  Kong  Equity  Fund",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.57%",
+	"1Year": "+44.04%",
+	"YTD": "+9.46%",
+	"6Month": "+20.87%",
+	"3Month": "+14.88%",
+	"1Month": "+9.46%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e996c"
+	},
+	"code": 600256,
+	"name": "Hang  Seng  Index  Tracking  Fund",
+	"provider": "\nHang  Seng  (ValueChoice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "17.78%",
+	"1Year": "+44.22%",
+	"YTD": "+9.83%",
+	"6Month": "+20.85%",
+	"3Month": "+16.13%",
+	"1Month": "+9.83%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e996d"
+	},
+	"code": 600243,
+	"name": "Hang  Seng  Index  Tracking  Fund",
+	"provider": "\nHang  Seng  (SuperTrust  Plus)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "17.78%",
+	"1Year": "+44.22%",
+	"YTD": "+9.83%",
+	"6Month": "+20.85%",
+	"3Month": "+16.13%",
+	"1Month": "+9.83%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e996e"
+	},
+	"code": 600287,
+	"name": "Hang  Seng  Index  Tracking  Fund",
+	"provider": "\nHSBC  (ValueChoice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "17.78%",
+	"1Year": "+44.22%",
+	"YTD": "+9.83%",
+	"6Month": "+20.85%",
+	"3Month": "+16.13%",
+	"1Month": "+9.83%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e996f"
+	},
+	"code": 600274,
+	"name": "Hang  Seng  Index  Tracking  Fund",
+	"provider": "\nHSBC  (SuperTrust  Plus)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "17.78%",
+	"1Year": "+44.22%",
+	"YTD": "+9.83%",
+	"6Month": "+20.85%",
+	"3Month": "+16.13%",
+	"1Month": "+9.83%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9970"
+	},
+	"code": 600153,
+	"name": "BEA  (MPF)  Greater  China  Equity  Fund",
+	"provider": "\nBEA  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "16.32%",
+	"1Year": "+44.80%",
+	"YTD": "+9.86%",
+	"6Month": "+20.84%",
+	"3Month": "+13.63%",
+	"1Month": "+9.86%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9971"
+	},
+	"code": 600555,
+	"name": "Sun  Life  FTSE  MPF  Hong  Kong  Index  Fund ",
+	"provider": "\nSun  Life  (Rainbow)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "17.91%",
+	"1Year": "+44.50%",
+	"YTD": "+8.96%",
+	"6Month": "+20.78%",
+	"3Month": "+14.12%",
+	"1Month": "+8.96%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9972"
+	},
+	"code": 600554,
+	"name": "Sun  Life  FTSE  MPF  Hong  Kong  Index  Fund ",
+	"provider": "\nSun  Life  (Rainbow)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "17.91%",
+	"1Year": "+44.50%",
+	"YTD": "+8.96%",
+	"6Month": "+20.78%",
+	"3Month": "+14.12%",
+	"1Month": "+8.96%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9973"
+	},
+	"code": 600139,
+	"name": "BEA  (Industry  Scheme)  Greater  China  Equity  Fund",
+	"provider": "\nBEA  (Industry)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "16.28%",
+	"1Year": "+44.21%",
+	"YTD": "+9.82%",
+	"6Month": "+20.66%",
+	"3Month": "+13.55%",
+	"1Month": "+9.82%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9974"
+	},
+	"code": 600155,
+	"name": "BEA  (MPF)  Hong  Kong  Equity  Fund",
+	"provider": "\nBEA  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.29%",
+	"1Year": "+41.65%",
+	"YTD": "+9.06%",
+	"6Month": "+20.63%",
+	"3Month": "+15.68%",
+	"1Month": "+9.06%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9975"
+	},
+	"code": 600471,
+	"name": "Schroder  MPF  Hong  Kong  Portfolio ",
+	"provider": "\nSun  Life  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "16.13%",
+	"1Year": "+43.94%",
+	"YTD": "+10.47%",
+	"6Month": "+20.62%",
+	"3Month": "+15.43%",
+	"1Month": "+10.47%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9976"
+	},
+	"code": 600042,
+	"name": "Hong  Kong  Equity  Fund",
+	"provider": "\nAIA  (Prime)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.37%",
+	"1Year": "+39.94%",
+	"YTD": "+9.52%",
+	"6Month": "+20.54%",
+	"3Month": "+15.22%",
+	"1Month": "+9.52%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9977"
+	},
+	"code": 600472,
+	"name": "Schroder  MPF  Hong  Kong  Portfolio ",
+	"provider": "\nSun  Life  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "16.12%",
+	"1Year": "+43.68%",
+	"YTD": "+10.46%",
+	"6Month": "+20.51%",
+	"3Month": "+15.39%",
+	"1Month": "+10.46%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9978"
+	},
+	"code": 600141,
+	"name": "BEA  (Industry  Scheme)  Hong  Kong  Equity  Fund",
+	"provider": "\nBEA  (Industry)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.26%",
+	"1Year": "+41.21%",
+	"YTD": "+9.03%",
+	"6Month": "+20.47%",
+	"3Month": "+15.61%",
+	"1Month": "+9.03%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9979"
+	},
+	"code": 600225,
+	"name": "Haitong  Global  Diversification  Fund ",
+	"provider": "\nHaitong  (MPF)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "11.45%",
+	"1Year": "+43.81%",
+	"YTD": "+6.07%",
+	"6Month": "+20.38%",
+	"3Month": "+6.44%",
+	"1Month": "+6.07%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e997a"
+	},
+	"code": 600224,
+	"name": "Haitong  Global  Diversification  Fund ",
+	"provider": "\nHaitong  (MPF)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "11.48%",
+	"1Year": "+43.57%",
+	"YTD": "+6.03%",
+	"6Month": "+20.28%",
+	"3Month": "+6.39%",
+	"1Month": "+6.03%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e997c"
+	},
+	"code": 600296,
+	"name": "Sun  Life  MPF  Basic  Scheme  Hong  Kong  Equity  Portfolio",
+	"provider": "\nSun  Life  (Basic)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "16.83%",
+	"1Year": "+43.00%",
+	"YTD": "+10.38%",
+	"6Month": "+20.24%",
+	"3Month": "+15.21%",
+	"1Month": "+10.38%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e997b"
+	},
+	"code": 600332,
+	"name": "Manulife  MPF  China  Value  Fund",
+	"provider": "\nManulife  (Global)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "18.51%",
+	"1Year": "+43.72%",
+	"YTD": "+9.89%",
+	"6Month": "+20.28%",
+	"3Month": "+13.52%",
+	"1Month": "+9.89%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e997d"
+	},
+	"code": 600304,
+	"name": "Sun  Life  MPF  Comprehensive  Scheme  Hong  Kong  Equity  Portfolio",
+	"provider": "\nSun  Life  (Comprehensive)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "16.85%",
+	"1Year": "+42.81%",
+	"YTD": "+10.36%",
+	"6Month": "+20.18%",
+	"3Month": "+15.16%",
+	"1Month": "+10.36%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e997e"
+	},
+	"code": 600163,
+	"name": "BEA  Asian  Equity  Fund",
+	"provider": "\nBEA  (Value)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "14.77%",
+	"1Year": "+42.56%",
+	"YTD": "+8.02%",
+	"6Month": "+20.11%",
+	"3Month": "+13.14%",
+	"1Month": "+8.02%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e997f"
+	},
+	"code": 600447,
+	"name": "Allianz  Hong  Kong  Fund ",
+	"provider": "\nAllianz  Global  Investors",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.64%",
+	"1Year": "+39.98%",
+	"YTD": "+10.20%",
+	"6Month": "+20.06%",
+	"3Month": "+15.69%",
+	"1Month": "+10.20%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9980"
+	},
+	"code": 600147,
+	"name": "BEA  (MPF)  Asian  Equity  Fund",
+	"provider": "\nBEA  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "13.54%",
+	"1Year": "+43.07%",
+	"YTD": "+7.40%",
+	"6Month": "+20.00%",
+	"3Month": "+12.61%",
+	"1Month": "+7.40%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9981"
+	},
+	"code": 600446,
+	"name": "Allianz  Hong  Kong  Fund ",
+	"provider": "\nAllianz  Global  Investors",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.64%",
+	"1Year": "+39.78%",
+	"YTD": "+10.19%",
+	"6Month": "+19.95%",
+	"3Month": "+15.76%",
+	"1Month": "+10.19%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9982"
+	},
+	"code": 600125,
+	"name": "BCT  (Pro)  Greater  China  Equity  Fund",
+	"provider": "\nBCT  (Pro)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.48%",
+	"1Year": "+41.73%",
+	"YTD": "+10.46%",
+	"6Month": "+19.87%",
+	"3Month": "+13.76%",
+	"1Month": "+10.46%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9983"
+	},
+	"code": 600445,
+	"name": "Allianz  Hong  Kong  Fund ",
+	"provider": "\nAllianz  Global  Investors",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.64%",
+	"1Year": "+39.45%",
+	"YTD": "+10.18%",
+	"6Month": "+19.85%",
+	"3Month": "+15.73%",
+	"1Month": "+10.18%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9984"
+	},
+	"code": 600371,
+	"name": "Hong  Kong  Equities  Fund",
+	"provider": "\nMassMutual  (MASS)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "15.57%",
+	"1Year": "+39.49%",
+	"YTD": "+10.16%",
+	"6Month": "+19.79%",
+	"3Month": "+15.60%",
+	"1Month": "+10.16%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9985"
+	},
+	"code": 600137,
+	"name": "BEA  (Industry  Scheme)  Asian  Equity  Fund",
+	"provider": "\nBEA  (Industry)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "13.44%",
+	"1Year": "+42.52%",
+	"YTD": "+7.36%",
+	"6Month": "+19.73%",
+	"3Month": "+12.47%",
+	"1Month": "+7.36%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9986"
+	},
+	"code": 600244,
+	"name": "Hong  Kong  and  Chinese  Equity  Fund",
+	"provider": "\nHang  Seng  (SuperTrust  Plus)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "18.71%",
+	"1Year": "+42.78%",
+	"YTD": "+8.96%",
+	"6Month": "+19.67%",
+	"3Month": "+14.48%",
+	"1Month": "+8.96%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9987"
+	},
+	"code": 600275,
+	"name": "Hong  Kong  and  Chinese  Equity  Fund",
+	"provider": "\nHSBC  (SuperTrust  Plus)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "18.71%",
+	"1Year": "+42.78%",
+	"YTD": "+8.96%",
+	"6Month": "+19.67%",
+	"3Month": "+14.48%",
+	"1Month": "+8.96%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9988"
+	},
+	"code": 600168,
+	"name": "BEA  Greater  China  Tracker  Fund",
+	"provider": "\nBEA  (Value)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.59%",
+	"1Year": "+41.51%",
+	"YTD": "+10.62%",
+	"6Month": "+19.66%",
+	"3Month": "+13.22%",
+	"1Month": "+10.62%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9989"
+	},
+	"code": 600489,
+	"name": "HSBC  MPF  \"A\" ",
+	"provider": "\nManulife  (Advanced)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.98%",
+	"1Year": "+42.29%",
+	"YTD": "+8.95%",
+	"6Month": "+19.45%",
+	"3Month": "+14.38%",
+	"1Month": "+8.95%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e998a"
+	},
+	"code": 600412,
+	"name": "Principal  Hong  Kong  Equity  Fund ",
+	"provider": "\nPrincipal  (800)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.57%",
+	"1Year": "+44.72%",
+	"YTD": "+9.37%",
+	"6Month": "+19.34%",
+	"3Month": "+14.62%",
+	"1Month": "+9.37%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e998b"
+	},
+	"code": 600576,
+	"name": "Principal  Dynamic  Hong  Kong  Equity  Fund",
+	"provider": "\nPRHK  (Simple)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.66%",
+	"1Year": "+39.42%",
+	"YTD": "+9.50%",
+	"6Month": "+19.29%",
+	"3Month": "+14.72%",
+	"1Month": "+9.50%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e998c"
+	},
+	"code": 600413,
+	"name": "Principal  Hong  Kong  Equity  Fund ",
+	"provider": "\nPrincipal  (800)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.57%",
+	"1Year": "+44.58%",
+	"YTD": "+9.36%",
+	"6Month": "+19.28%",
+	"3Month": "+14.59%",
+	"1Month": "+9.36%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e998d"
+	},
+	"code": 600587,
+	"name": "Principal  Dynamic  Hong  Kong  Equity  Fund",
+	"provider": "\nPRHK  (Smart)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.64%",
+	"1Year": "+39.36%",
+	"YTD": "+9.47%",
+	"6Month": "+19.20%",
+	"3Month": "+14.63%",
+	"1Month": "+9.47%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e998e"
+	},
+	"code": 600569,
+	"name": "Principal  Hong  Kong  Equity  Fund",
+	"provider": "\nManulife  (Advanced)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.22%",
+	"1Year": "+44.35%",
+	"YTD": "+9.31%",
+	"6Month": "+19.18%",
+	"3Month": "+14.50%",
+	"1Month": "+9.31%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e998f"
+	},
+	"code": 600102,
+	"name": "BCOM  Hong  Kong  Dynamic  Equity  (CF)  Fund",
+	"provider": "\nBCOM  (Joyful)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.58%",
+	"1Year": "+44.10%",
+	"YTD": "+9.33%",
+	"6Month": "+19.09%",
+	"3Month": "+14.49%",
+	"1Month": "+9.33%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9990"
+	},
+	"code": 600043,
+	"name": "Japan  Equity  Fund",
+	"provider": "\nAIA  (Prime)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.61%",
+	"1Year": "+31.32%",
+	"YTD": "+4.37%",
+	"6Month": "+18.16%",
+	"3Month": "+9.05%",
+	"1Month": "+4.37%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9991"
+	},
+	"code": 600037,
+	"name": "Greater  China  Equity  Fund",
+	"provider": "\nAIA  (Prime)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "16.22%",
+	"1Year": "+38.59%",
+	"YTD": "+8.85%",
+	"6Month": "+17.88%",
+	"3Month": "+12.42%",
+	"1Month": "+8.85%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9992"
+	},
+	"code": 600562,
+	"name": "Sun  Life  MPF  Comprehensive  Scheme  US  \u0026  Hong  Kong  Equity  Portfolio",
+	"provider": "\nSun  Life  (Comprehensive)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.56%",
+	"1Year": "+32.05%",
+	"YTD": "+7.37%",
+	"6Month": "+17.20%",
+	"3Month": "+12.35%",
+	"1Month": "+7.37%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9993"
+	},
+	"code": 600561,
+	"name": "Sun  Life  MPF  Basic  Scheme  US  \u0026  Hong  Kong  Equity  Portfolio",
+	"provider": "\nSun  Life  (Basic)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.59%",
+	"1Year": "+32.01%",
+	"YTD": "+7.33%",
+	"6Month": "+17.12%",
+	"3Month": "+12.33%",
+	"1Month": "+7.33%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9994"
+	},
+	"code": 600400,
+	"name": "Principal  Asian  Equity  Fund ",
+	"provider": "\nPrincipal  (800)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "14.49%",
+	"1Year": "+41.74%",
+	"YTD": "+7.43%",
+	"6Month": "+16.84%",
+	"3Month": "+11.24%",
+	"1Month": "+7.43%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9995"
+	},
+	"code": 600431,
+	"name": "Allianz  Asian  Fund ",
+	"provider": "\nAllianz  Global  Investors",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "13.43%",
+	"1Year": "+41.40%",
+	"YTD": "+6.47%",
+	"6Month": "+16.83%",
+	"3Month": "+10.87%",
+	"1Month": "+6.47%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9996"
+	},
+	"code": 600432,
+	"name": "Allianz  Asian  Fund ",
+	"provider": "\nAllianz  Global  Investors",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "13.43%",
+	"1Year": "+40.98%",
+	"YTD": "+6.43%",
+	"6Month": "+16.71%",
+	"3Month": "+10.84%",
+	"1Month": "+6.43%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9997"
+	},
+	"code": 600318,
+	"name": "Growth  Fund ",
+	"provider": "\nInvesco  (Strategic)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.85%",
+	"1Year": "+34.16%",
+	"YTD": "+6.07%",
+	"6Month": "+16.70%",
+	"3Month": "+10.84%",
+	"1Month": "+6.07%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9998"
+	},
+	"code": 600401,
+	"name": "Principal  Asian  Equity  Fund ",
+	"provider": "\nPrincipal  (800)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "14.49%",
+	"1Year": "+41.26%",
+	"YTD": "+7.40%",
+	"6Month": "+16.64%",
+	"3Month": "+11.15%",
+	"1Month": "+7.40%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e9999"
+	},
+	"code": 600317,
+	"name": "Growth  Fund ",
+	"provider": "\nInvesco  (Strategic)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.85%",
+	"1Year": "+34.00%",
+	"YTD": "+6.06%",
+	"6Month": "+16.63%",
+	"3Month": "+10.81%",
+	"1Month": "+6.06%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e999a"
+	},
+	"code": 600430,
+	"name": "Allianz  Asian  Fund ",
+	"provider": "\nAllianz  Global  Investors",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "13.43%",
+	"1Year": "+40.91%",
+	"YTD": "+6.42%",
+	"6Month": "+16.62%",
+	"3Month": "+10.79%",
+	"1Month": "+6.42%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e999b"
+	},
+	"code": 600095,
+	"name": "BCOM  Asian  Dynamic  Equity  (CF)  Fund",
+	"provider": "\nBCOM  (Joyful)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "14.51%",
+	"1Year": "+41.16%",
+	"YTD": "+7.40%",
+	"6Month": "+16.59%",
+	"3Month": "+11.13%",
+	"1Month": "+7.40%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e999c"
+	},
+	"code": 600186,
+	"name": "My  Choice  Asia  Equity  Fund",
+	"provider": "\nBOCI-Prudential  (My  Choice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.86%",
+	"1Year": "+36.20%",
+	"YTD": "+6.73%",
+	"6Month": "+16.48%",
+	"3Month": "+11.46%",
+	"1Month": "+6.73%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e999d"
+	},
+	"code": 600205,
+	"name": "China  Life  Retire-Easy  Global  Equity  Fund",
+	"provider": "\nChina  Life  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.82%",
+	"1Year": "+33.57%",
+	"YTD": "+6.03%",
+	"6Month": "+16.46%",
+	"3Month": "+10.73%",
+	"1Month": "+6.03%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e999e"
+	},
+	"code": 600537,
+	"name": "Sun  Life  MPF  Asian  Equity  Fund ",
+	"provider": "\nSun  Life  (Rainbow)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "13.41%",
+	"1Year": "+39.70%",
+	"YTD": "+6.68%",
+	"6Month": "+16.40%",
+	"3Month": "+10.91%",
+	"1Month": "+6.68%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e999f"
+	},
+	"code": 600492,
+	"name": "Invesco  Global  Equities  Fund",
+	"provider": "\nManulife  (Advanced)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.66%",
+	"1Year": "+33.26%",
+	"YTD": "+6.00%",
+	"6Month": "+16.30%",
+	"3Month": "+10.64%",
+	"1Month": "+6.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99a0"
+	},
+	"code": 600536,
+	"name": "Sun  Life  MPF  Asian  Equity  Fund ",
+	"provider": "\nSun  Life  (Rainbow)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "13.41%",
+	"1Year": "+39.42%",
+	"YTD": "+6.66%",
+	"6Month": "+16.28%",
+	"3Month": "+10.85%",
+	"1Month": "+6.66%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99a1"
+	},
+	"code": 600207,
+	"name": "Asia  Pacific  Equity  Fund",
+	"provider": "\nFidelity  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "13.67%",
+	"1Year": "+35.57%",
+	"YTD": "+6.71%",
+	"6Month": "+16.24%",
+	"3Month": "+11.33%",
+	"1Month": "+6.71%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99a2"
+	},
+	"code": 600425,
+	"name": "Principal  US  Equity  Fund ",
+	"provider": "\nPrincipal  (800)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.86%",
+	"1Year": "+24.12%",
+	"YTD": "+5.74%",
+	"6Month": "+15.98%",
+	"3Month": "+9.60%",
+	"1Month": "+5.74%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99a3"
+	},
+	"code": 600457,
+	"name": "Schroder  MPF  Asian  Portfolio ",
+	"provider": "\nSun  Life  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.02%",
+	"1Year": "+38.83%",
+	"YTD": "+6.40%",
+	"6Month": "+15.85%",
+	"3Month": "+10.54%",
+	"1Month": "+6.40%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99a4"
+	},
+	"code": 600500,
+	"name": "Schroder  MPF  Asian  Fund",
+	"provider": "\nManulife  (Advanced)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.04%",
+	"1Year": "+38.77%",
+	"YTD": "+6.37%",
+	"6Month": "+15.84%",
+	"3Month": "+10.50%",
+	"1Month": "+6.37%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99a5"
+	},
+	"code": 600426,
+	"name": "Principal  US  Equity  Fund ",
+	"provider": "\nPrincipal  (800)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.86%",
+	"1Year": "+23.70%",
+	"YTD": "+5.71%",
+	"6Month": "+15.79%",
+	"3Month": "+9.51%",
+	"1Month": "+5.71%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99a6"
+	},
+	"code": 600573,
+	"name": "Principal  Dynamic  Asia  Pacific  Equity  Fund",
+	"provider": "\nPRHK  (Simple)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "13.45%",
+	"1Year": "+34.82%",
+	"YTD": "+6.61%",
+	"6Month": "+15.77%",
+	"3Month": "+10.96%",
+	"1Month": "+6.61%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99a7"
+	},
+	"code": 600107,
+	"name": "BCT  (Industry)  Asian  Equity  Fund",
+	"provider": "\nBCT  (Industry)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "12.35%",
+	"1Year": "+38.51%",
+	"YTD": "+6.36%",
+	"6Month": "+15.74%",
+	"3Month": "+10.47%",
+	"1Month": "+6.36%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99a8"
+	},
+	"code": 600116,
+	"name": "BCT  (Pro)  Asian  Equity  Fund",
+	"provider": "\nBCT  (Pro)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "12.33%",
+	"1Year": "+38.53%",
+	"YTD": "+6.36%",
+	"6Month": "+15.73%",
+	"3Month": "+10.46%",
+	"1Month": "+6.36%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99a9"
+	},
+	"code": 600458,
+	"name": "Schroder  MPF  Asian  Portfolio ",
+	"provider": "\nSun  Life  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.01%",
+	"1Year": "+38.56%",
+	"YTD": "+6.39%",
+	"6Month": "+15.72%",
+	"3Month": "+10.49%",
+	"1Month": "+6.39%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99aa"
+	},
+	"code": 600581,
+	"name": "Principal  Dynamic  Asia  Pacific  Equity  Fund",
+	"provider": "\nPRHK  (Smart)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "13.45%",
+	"1Year": "+34.71%",
+	"YTD": "+6.61%",
+	"6Month": "+15.69%",
+	"3Month": "+10.97%",
+	"1Month": "+6.61%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99ab"
+	},
+	"code": 600348,
+	"name": "Manulife  MPF  Pacific  Asia  Equity  Fund",
+	"provider": "\nManulife  (Global)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "13.15%",
+	"1Year": "+35.49%",
+	"YTD": "+6.37%",
+	"6Month": "+15.69%",
+	"3Month": "+10.47%",
+	"1Month": "+6.37%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99ac"
+	},
+	"code": 600156,
+	"name": "BEA  (MPF)  Japan  Equity  Fund",
+	"provider": "\nBEA  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.71%",
+	"1Year": "+23.04%",
+	"YTD": "+3.93%",
+	"6Month": "+15.65%",
+	"3Month": "+7.06%",
+	"1Month": "+3.93%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99ad"
+	},
+	"code": 600499,
+	"name": "Allianz  Growth  Fund",
+	"provider": "\nManulife  (Advanced)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.00%",
+	"1Year": "+31.79%",
+	"YTD": "+6.67%",
+	"6Month": "+15.56%",
+	"3Month": "+10.22%",
+	"1Month": "+6.67%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99ae"
+	},
+	"code": 600300,
+	"name": "Sun  Life  MPF  Comprehensive  Scheme  Asian  Equity  Portfolio",
+	"provider": "\nSun  Life  (Comprehensive)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.32%",
+	"1Year": "+37.87%",
+	"YTD": "+6.31%",
+	"6Month": "+15.50%",
+	"3Month": "+10.33%",
+	"1Month": "+6.31%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99af"
+	},
+	"code": 600026,
+	"name": "American  Fund",
+	"provider": "\nAIA  (Prime)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.00%",
+	"1Year": "+24.58%",
+	"YTD": "+7.03%",
+	"6Month": "+15.13%",
+	"3Month": "+10.88%",
+	"1Month": "+7.03%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99b0"
+	},
+	"code": 600258,
+	"name": "ValueChoice  Asia  Pacific  Equity  Fund",
+	"provider": "\nHang  Seng  (ValueChoice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "14.95%",
+	"1Year": "+35.58%",
+	"YTD": "+6.76%",
+	"6Month": "+15.00%",
+	"3Month": "+10.59%",
+	"1Month": "+6.76%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99b1"
+	},
+	"code": 600289,
+	"name": "ValueChoice  Asia  Pacific  Equity  Fund",
+	"provider": "\nHSBC  (ValueChoice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "14.95%",
+	"1Year": "+35.58%",
+	"YTD": "+6.76%",
+	"6Month": "+15.00%",
+	"3Month": "+10.59%",
+	"1Month": "+6.76%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99b2"
+	},
+	"code": 600293,
+	"name": "ValueChoice  US  Equity  Fund",
+	"provider": "\nHSBC  (ValueChoice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "12.21%",
+	"1Year": "+24.31%",
+	"YTD": "+5.33%",
+	"6Month": "+14.43%",
+	"3Month": "+9.91%",
+	"1Month": "+5.33%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99b3"
+	},
+	"code": 600262,
+	"name": "ValueChoice  US  Equity  Fund",
+	"provider": "\nHang  Seng  (ValueChoice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "12.21%",
+	"1Year": "+24.31%",
+	"YTD": "+5.33%",
+	"6Month": "+14.43%",
+	"3Month": "+9.91%",
+	"1Month": "+5.33%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99b4"
+	},
+	"code": 600223,
+	"name": "Haitong  Asia  Pacific  (excluding  HK)  Fund ",
+	"provider": "\nHaitong  (MPF)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "12.39%",
+	"1Year": "+30.86%",
+	"YTD": "+3.81%",
+	"6Month": "+14.30%",
+	"3Month": "+8.41%",
+	"1Month": "+3.81%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99b5"
+	},
+	"code": 600222,
+	"name": "Haitong  Asia  Pacific  (excluding  HK)  Fund ",
+	"provider": "\nHaitong  (MPF)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "12.36%",
+	"1Year": "+30.73%",
+	"YTD": "+3.82%",
+	"6Month": "+14.26%",
+	"3Month": "+8.36%",
+	"1Month": "+3.82%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99b6"
+	},
+	"code": 600416,
+	"name": "Principal  International  Equity  Fund ",
+	"provider": "\nPrincipal  (800)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.19%",
+	"1Year": "+25.89%",
+	"YTD": "+5.61%",
+	"6Month": "+14.26%",
+	"3Month": "+8.97%",
+	"1Month": "+5.61%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99b7"
+	},
+	"code": 600374,
+	"name": "US  Equity  Fund",
+	"provider": "\nMassMutual  (MASS)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "10.57%",
+	"1Year": "+29.03%",
+	"YTD": "+7.77%",
+	"6Month": "+14.24%",
+	"3Month": "+9.29%",
+	"1Month": "+7.77%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99b8"
+	},
+	"code": 600345,
+	"name": "Manulife  MPF  Japan  Equity  Fund",
+	"provider": "\nManulife  (Global)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "13.08%",
+	"1Year": "+23.55%",
+	"YTD": "+3.23%",
+	"6Month": "+14.20%",
+	"3Month": "+7.12%",
+	"1Month": "+3.23%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99b9"
+	},
+	"code": 600184,
+	"name": "BOC-Prudential  North  America  Index  Tracking  Fund",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.65%",
+	"1Year": "+23.05%",
+	"YTD": "+5.45%",
+	"6Month": "+14.15%",
+	"3Month": "+9.74%",
+	"1Month": "+5.45%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99ba"
+	},
+	"code": 600246,
+	"name": "North  American  Equity  Fund",
+	"provider": "\nHang  Seng  (SuperTrust  Plus)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "10.32%",
+	"1Year": "+22.72%",
+	"YTD": "+5.27%",
+	"6Month": "+14.11%",
+	"3Month": "+9.37%",
+	"1Month": "+5.27%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99bb"
+	},
+	"code": 600277,
+	"name": "North  American  Equity  Fund",
+	"provider": "\nHSBC  (SuperTrust  Plus)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "10.32%",
+	"1Year": "+22.72%",
+	"YTD": "+5.27%",
+	"6Month": "+14.11%",
+	"3Month": "+9.37%",
+	"1Month": "+5.27%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99bc"
+	},
+	"code": 600050,
+	"name": "World  Fund",
+	"provider": "\nAIA  (Prime)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.34%",
+	"1Year": "+24.89%",
+	"YTD": "+6.93%",
+	"6Month": "+14.09%",
+	"3Month": "+10.01%",
+	"1Month": "+6.93%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99bd"
+	},
+	"code": 600166,
+	"name": "BEA  Global  Equity  Fund",
+	"provider": "\nBEA  (Value)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.24%",
+	"1Year": "+28.22%",
+	"YTD": "+6.57%",
+	"6Month": "+14.07%",
+	"3Month": "+9.57%",
+	"1Month": "+6.57%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99be"
+	},
+	"code": 600417,
+	"name": "Principal  International  Equity  Fund ",
+	"provider": "\nPrincipal  (800)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.20%",
+	"1Year": "+25.46%",
+	"YTD": "+5.58%",
+	"6Month": "+14.07%",
+	"3Month": "+8.88%",
+	"1Month": "+5.58%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99bf"
+	},
+	"code": 600173,
+	"name": "BOC-Prudential  Asia  Equity  Fund",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "13.49%",
+	"1Year": "+32.16%",
+	"YTD": "+5.88%",
+	"6Month": "+14.02%",
+	"3Month": "+9.69%",
+	"1Month": "+5.88%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99c0"
+	},
+	"code": 600158,
+	"name": "BEA  (MPF)  North  American  Equity  Fund",
+	"provider": "\nBEA  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.77%",
+	"1Year": "+22.89%",
+	"YTD": "+5.41%",
+	"6Month": "+13.88%",
+	"3Month": "+9.57%",
+	"1Month": "+5.41%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99c1"
+	},
+	"code": 600531,
+	"name": "Sun  Life  MPF  Global  Equity  Fund ",
+	"provider": "\nSun  Life  (Rainbow)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.54%",
+	"1Year": "+26.04%",
+	"YTD": "+5.37%",
+	"6Month": "+13.82%",
+	"3Month": "+9.14%",
+	"1Month": "+5.37%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99c2"
+	},
+	"code": 600046,
+	"name": "North  American  Equity  Fund",
+	"provider": "\nAIA  (Prime)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "10.79%",
+	"1Year": "+24.42%",
+	"YTD": "+5.22%",
+	"6Month": "+13.77%",
+	"3Month": "+9.93%",
+	"1Month": "+5.22%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99c3"
+	},
+	"code": 600038,
+	"name": "Green  Fund",
+	"provider": "\nAIA  (Prime)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "10.83%",
+	"1Year": "+25.97%",
+	"YTD": "+5.37%",
+	"6Month": "+13.71%",
+	"3Month": "+8.74%",
+	"1Month": "+5.37%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99c4"
+	},
+	"code": 600530,
+	"name": "Sun  Life  MPF  Global  Equity  Fund ",
+	"provider": "\nSun  Life  (Rainbow)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.54%",
+	"1Year": "+25.79%",
+	"YTD": "+5.35%",
+	"6Month": "+13.70%",
+	"3Month": "+9.08%",
+	"1Month": "+5.35%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99c5"
+	},
+	"code": 600152,
+	"name": "BEA  (MPF)  Global  Equity  Fund",
+	"provider": "\nBEA  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.24%",
+	"1Year": "+27.13%",
+	"YTD": "+6.30%",
+	"6Month": "+13.64%",
+	"3Month": "+9.29%",
+	"1Month": "+6.30%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99c6"
+	},
+	"code": 600179,
+	"name": "BOC-Prudential  Global  Equity  Fund",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.84%",
+	"1Year": "+23.67%",
+	"YTD": "+4.98%",
+	"6Month": "+13.30%",
+	"3Month": "+8.23%",
+	"1Month": "+4.98%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99c7"
+	},
+	"code": 600473,
+	"name": "Schroder  MPF  International  Portfolio ",
+	"provider": "\nSun  Life  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.75%",
+	"1Year": "+23.21%",
+	"YTD": "+5.26%",
+	"6Month": "+13.14%",
+	"3Month": "+8.74%",
+	"1Month": "+5.26%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99c8"
+	},
+	"code": 600233,
+	"name": "Global  Equity  Fund",
+	"provider": "\nHang  Seng  (ValueChoice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "N/A",
+	"1Year": "+22.88%",
+	"YTD": "+4.83%",
+	"6Month": "+13.01%",
+	"3Month": "+7.88%",
+	"1Month": "+4.83%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99c9"
+	},
+	"code": 600264,
+	"name": "Global  Equity  Fund",
+	"provider": "\nHSBC  (ValueChoice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "N/A",
+	"1Year": "+22.88%",
+	"YTD": "+4.83%",
+	"6Month": "+13.01%",
+	"3Month": "+7.88%",
+	"1Month": "+4.83%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99ca"
+	},
+	"code": 600474,
+	"name": "Schroder  MPF  International  Portfolio ",
+	"provider": "\nSun  Life  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.73%",
+	"1Year": "+22.96%",
+	"YTD": "+5.22%",
+	"6Month": "+12.99%",
+	"3Month": "+8.62%",
+	"1Month": "+5.22%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99cb"
+	},
+	"code": 600032,
+	"name": "European  Equity  Fund",
+	"provider": "\nAIA  (Prime)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.53%",
+	"1Year": "+30.36%",
+	"YTD": "+5.96%",
+	"6Month": "+12.96%",
+	"3Month": "+7.67%",
+	"1Month": "+5.96%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99cc"
+	},
+	"code": 600182,
+	"name": "BOC-Prudential  Japan  Equity  Fund",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.61%",
+	"1Year": "+19.54%",
+	"YTD": "+2.30%",
+	"6Month": "+12.95%",
+	"3Month": "+5.77%",
+	"1Month": "+2.30%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99cd"
+	},
+	"code": 600031,
+	"name": "Eurasia  Fund",
+	"provider": "\nAIA  (Prime)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.87%",
+	"1Year": "+28.79%",
+	"YTD": "+6.03%",
+	"6Month": "+12.77%",
+	"3Month": "+8.61%",
+	"1Month": "+6.03%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99ce"
+	},
+	"code": 600136,
+	"name": "BCT  (Pro)  World  Equity  Fund",
+	"provider": "\nBCT  (Pro)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "10.82%",
+	"1Year": "+24.32%",
+	"YTD": "+4.99%",
+	"6Month": "+12.75%",
+	"3Month": "+8.64%",
+	"1Month": "+4.99%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99cf"
+	},
+	"code": 600235,
+	"name": "Asia  Pacific  Equity  Fund",
+	"provider": "\nHang  Seng  (SuperTrust  Plus)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "15.78%",
+	"1Year": "+31.75%",
+	"YTD": "+6.09%",
+	"6Month": "+12.56%",
+	"3Month": "+9.39%",
+	"1Month": "+6.09%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99d0"
+	},
+	"code": 600266,
+	"name": "Asia  Pacific  Equity  Fund",
+	"provider": "\nHSBC  (SuperTrust  Plus)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "15.78%",
+	"1Year": "+31.75%",
+	"YTD": "+6.09%",
+	"6Month": "+12.56%",
+	"3Month": "+9.39%",
+	"1Month": "+6.09%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99d1"
+	},
+	"code": 600344,
+	"name": "Manulife  MPF  International  Equity  Fund",
+	"provider": "\nManulife  (Global)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "11.22%",
+	"1Year": "+24.37%",
+	"YTD": "+5.80%",
+	"6Month": "+12.43%",
+	"3Month": "+8.44%",
+	"1Month": "+5.80%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99d2"
+	},
+	"code": 600363,
+	"name": "Asian  Pacific  Equity  Fund",
+	"provider": "\nMassMutual  (MASS)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "13.04%",
+	"1Year": "+33.55%",
+	"YTD": "+4.64%",
+	"6Month": "+12.38%",
+	"3Month": "+8.78%",
+	"1Month": "+4.64%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99d3"
+	},
+	"code": 600215,
+	"name": "Global  Equity  Fund",
+	"provider": "\nFidelity  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "10.31%",
+	"1Year": "+22.20%",
+	"YTD": "+5.21%",
+	"6Month": "+12.18%",
+	"3Month": "+8.18%",
+	"1Month": "+5.21%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99d4"
+	},
+	"code": 600129,
+	"name": "BCT  (Pro)  International  Equity  Fund",
+	"provider": "\nBCT  (Pro)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "10.10%",
+	"1Year": "+22.11%",
+	"YTD": "+5.19%",
+	"6Month": "+12.09%",
+	"3Month": "+8.12%",
+	"1Month": "+5.19%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99d5"
+	},
+	"code": 600574,
+	"name": "Principal  Dynamic  Global  Equity  Fund",
+	"provider": "\nPRHK  (Simple)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "10.12%",
+	"1Year": "+21.79%",
+	"YTD": "+5.18%",
+	"6Month": "+11.99%",
+	"3Month": "+8.11%",
+	"1Month": "+5.18%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99d6"
+	},
+	"code": 600582,
+	"name": "Principal  Dynamic  Global  Equity  Fund",
+	"provider": "\nPRHK  (Smart)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "10.16%",
+	"1Year": "+21.74%",
+	"YTD": "+5.14%",
+	"6Month": "+11.98%",
+	"3Month": "+8.04%",
+	"1Month": "+5.14%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99d7"
+	},
+	"code": 600297,
+	"name": "Sun  Life  MPF  Basic  Scheme  International  Equity  Portfolio",
+	"provider": "\nSun  Life  (Basic)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "10.16%",
+	"1Year": "+21.62%",
+	"YTD": "+5.14%",
+	"6Month": "+11.86%",
+	"3Month": "+8.05%",
+	"1Month": "+5.14%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99d8"
+	},
+	"code": 600305,
+	"name": "Sun  Life  MPF  Comprehensive  Scheme  International  Equity  Portfolio",
+	"provider": "\nSun  Life  (Comprehensive)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "10.14%",
+	"1Year": "+21.45%",
+	"YTD": "+5.16%",
+	"6Month": "+11.79%",
+	"3Month": "+8.06%",
+	"1Month": "+5.16%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99d9"
+	},
+	"code": 600346,
+	"name": "Manulife  MPF  North  American  Equity  Fund",
+	"provider": "\nManulife  (Global)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "12.08%",
+	"1Year": "+20.65%",
+	"YTD": "+4.73%",
+	"6Month": "+10.66%",
+	"3Month": "+6.92%",
+	"1Month": "+4.73%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99da"
+	},
+	"code": 600060,
+	"name": "AMTD  Invesco  Europe  Fund",
+	"provider": "\nAMTD  (MPF)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "13.35%",
+	"1Year": "+22.85%",
+	"YTD": "+5.01%",
+	"6Month": "+9.67%",
+	"3Month": "+6.35%",
+	"1Month": "+5.01%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99db"
+	},
+	"code": 600190,
+	"name": "My  Choice  Global  Equity  Fund",
+	"provider": "\nBOCI-Prudential  (My  Choice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.54%",
+	"1Year": "+18.18%",
+	"YTD": "+4.60%",
+	"6Month": "+9.67%",
+	"3Month": "+7.12%",
+	"1Month": "+4.60%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99dc"
+	},
+	"code": 600122,
+	"name": "BCT  (Pro)  European  Equity  Fund",
+	"provider": "\nBCT  (Pro)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "13.50%",
+	"1Year": "+22.57%",
+	"YTD": "+4.93%",
+	"6Month": "+9.44%",
+	"3Month": "+6.18%",
+	"1Month": "+4.93%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99dd"
+	},
+	"code": 600291,
+	"name": "ValueChoice  European  Equity  Fund",
+	"provider": "\nHSBC  (ValueChoice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "12.33%",
+	"1Year": "+24.48%",
+	"YTD": "+4.64%",
+	"6Month": "+9.39%",
+	"3Month": "+5.32%",
+	"1Month": "+4.64%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99de"
+	},
+	"code": 600260,
+	"name": "ValueChoice  European  Equity  Fund",
+	"provider": "\nHang  Seng  (ValueChoice)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "12.33%",
+	"1Year": "+24.48%",
+	"YTD": "+4.64%",
+	"6Month": "+9.39%",
+	"3Month": "+5.32%",
+	"1Month": "+4.64%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99df"
+	},
+	"code": 600366,
+	"name": "Global  Equity  Fund",
+	"provider": "\nMassMutual  (MASS)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "10.04%",
+	"1Year": "+17.55%",
+	"YTD": "+4.54%",
+	"6Month": "+9.37%",
+	"3Month": "+6.97%",
+	"1Month": "+4.54%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99e0"
+	},
+	"code": 600124,
+	"name": "BCT  (Pro)  Global  Equity  Fund",
+	"provider": "\nBCT  (Pro)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "11.72%",
+	"1Year": "+17.46%",
+	"YTD": "+4.52%",
+	"6Month": "+9.34%",
+	"3Month": "+6.95%",
+	"1Month": "+4.52%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99e1"
+	},
+	"code": 600112,
+	"name": "BCT  (Industry)  Global  Equity  Fund",
+	"provider": "\nBCT  (Industry)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "11.73%",
+	"1Year": "+17.40%",
+	"YTD": "+4.52%",
+	"6Month": "+9.32%",
+	"3Month": "+6.94%",
+	"1Month": "+4.52%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99e2"
+	},
+	"code": 600028,
+	"name": "Asian  Equity  Fund",
+	"provider": "\nAIA  (Prime)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "13.92%",
+	"1Year": "+27.53%",
+	"YTD": "+4.17%",
+	"6Month": "+9.28%",
+	"3Month": "+6.56%",
+	"1Month": "+4.17%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99e3"
+	},
+	"code": 600510,
+	"name": "Templeton  MPF  Global  Equity  Fund",
+	"provider": "\nManulife  (Advanced)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "11.59%",
+	"1Year": "+17.25%",
+	"YTD": "+4.52%",
+	"6Month": "+9.20%",
+	"3Month": "+6.92%",
+	"1Month": "+4.52%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99e4"
+	},
+	"code": 600238,
+	"name": "European  Equity  Fund",
+	"provider": "\nHang  Seng  (SuperTrust  Plus)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "12.54%",
+	"1Year": "+23.49%",
+	"YTD": "+4.31%",
+	"6Month": "+9.08%",
+	"3Month": "+6.34%",
+	"1Month": "+4.31%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99e5"
+	},
+	"code": 600269,
+	"name": "European  Equity  Fund",
+	"provider": "\nHSBC  (SuperTrust  Plus)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "12.54%",
+	"1Year": "+23.49%",
+	"YTD": "+4.31%",
+	"6Month": "+9.08%",
+	"3Month": "+6.34%",
+	"1Month": "+4.31%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99e6"
+	},
+	"code": 600310,
+	"name": "Asian  Equity  Fund ",
+	"provider": "\nInvesco  (Strategic)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.41%",
+	"1Year": "+27.56%",
+	"YTD": "+0.73%",
+	"6Month": "+8.80%",
+	"3Month": "+3.93%",
+	"1Month": "+0.73%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99e7"
+	},
+	"code": 600309,
+	"name": "Asian  Equity  Fund ",
+	"provider": "\nInvesco  (Strategic)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.41%",
+	"1Year": "+27.41%",
+	"YTD": "+0.72%",
+	"6Month": "+8.74%",
+	"3Month": "+3.91%",
+	"1Month": "+0.72%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99e8"
+	},
+	"code": 600059,
+	"name": "AMTD  Invesco  Asia  Fund",
+	"provider": "\nAMTD  (MPF)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.56%",
+	"1Year": "+27.41%",
+	"YTD": "+0.71%",
+	"6Month": "+8.69%",
+	"3Month": "+3.88%",
+	"1Month": "+0.71%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99e9"
+	},
+	"code": 600178,
+	"name": "BOC-Prudential  European  Index  Tracking  Fund",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "10.97%",
+	"1Year": "+21.48%",
+	"YTD": "+3.75%",
+	"6Month": "+8.58%",
+	"3Month": "+4.36%",
+	"1Month": "+3.75%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99ea"
+	},
+	"code": 600364,
+	"name": "European  Equity  Fund",
+	"provider": "\nMassMutual  (MASS)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.06%",
+	"1Year": "+19.26%",
+	"YTD": "+3.66%",
+	"6Month": "+7.60%",
+	"3Month": "+3.66%",
+	"1Month": "+3.66%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99eb"
+	},
+	"code": 600150,
+	"name": "BEA  (MPF)  European  Equity  Fund",
+	"provider": "\nBEA  (Master)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.57%",
+	"1Year": "+20.12%",
+	"YTD": "+4.46%",
+	"6Month": "+7.56%",
+	"3Month": "+3.93%",
+	"1Month": "+4.46%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99ec"
+	},
+	"code": 600339,
+	"name": "Manulife  MPF  Healthcare  Fund",
+	"provider": "\nManulife  (Global)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 20,
+	"RiskIndicator": "11.45%",
+	"1Year": "+20.69%",
+	"YTD": "+5.10%",
+	"6Month": "+7.46%",
+	"3Month": "+7.66%",
+	"1Month": "+5.10%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99ed"
+	},
+	"code": 600228,
+	"name": "Haitong  Korea  Fund ",
+	"provider": "\nHaitong  (MPF)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.04%",
+	"1Year": "+22.38%",
+	"YTD": "+2.32%",
+	"6Month": "+6.63%",
+	"3Month": "+9.75%",
+	"1Month": "+2.32%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99ee"
+	},
+	"code": 600229,
+	"name": "Haitong  Korea  Fund ",
+	"provider": "\nHaitong  (MPF)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 0,
+	"RiskIndicator": "17.04%",
+	"1Year": "+22.36%",
+	"YTD": "+2.32%",
+	"6Month": "+6.63%",
+	"3Month": "+9.77%",
+	"1Month": "+2.32%"
+},
+{
+	"_id": {
+		"$oid": "5aa3a78109cc3b2d408e99ef"
+	},
+	"code": 600334,
+	"name": "Manulife  MPF  European  Equity  Fund",
+	"provider": "\nManulife  (Global)",
+	"__v": 0,
+	"category": "Equity",
+	"RiskLevel": 41,
+	"RiskIndicator": "12.03%",
+	"1Year": "+17.42%",
+	"YTD": "+2.66%",
+	"6Month": "+5.44%",
+	"3Month": "+3.61%",
+	"1Month": "+2.66%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29180"
+	},
+	"code": 600451,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Oriental  Pacific  Fund ",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.50%",
+	"1Year": "+35.86%",
+	"YTD": "+5.26%",
+	"6Month": "+18.84%",
+	"3Month": "+10.91%",
+	"1Month": "+5.26%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29181"
+	},
+	"code": 600453,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Oriental  Pacific  Fund ",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.50%",
+	"1Year": "+35.66%",
+	"YTD": "+5.12%",
+	"6Month": "+18.74%",
+	"3Month": "+10.92%",
+	"1Month": "+5.12%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29182"
+	},
+	"code": 600452,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Oriental  Pacific  Fund ",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.50%",
+	"1Year": "+35.46%",
+	"YTD": "+5.18%",
+	"6Month": "+18.63%",
+	"3Month": "+10.88%",
+	"1Month": "+5.18%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29183"
+	},
+	"code": 600595,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nFidelity  (Master)",
+	"name": "Fidelity  SaveEasy  2050  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "N/A",
+	"1Year": "+33.27%",
+	"YTD": "+6.98%",
+	"6Month": "+16.67%",
+	"3Month": "+11.37%",
+	"1Month": "+6.98%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29184"
+	},
+	"code": 600594,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nFidelity  (Master)",
+	"name": "Fidelity  SaveEasy  2045  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "N/A",
+	"1Year": "+33.19%",
+	"YTD": "+6.90%",
+	"6Month": "+16.64%",
+	"3Month": "+11.35%",
+	"1Month": "+6.90%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29185"
+	},
+	"code": 600214,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nFidelity  (Master)",
+	"name": "Fidelity  SaveEasy  2040  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "12.49%",
+	"1Year": "+33.31%",
+	"YTD": "+6.87%",
+	"6Month": "+16.63%",
+	"3Month": "+11.33%",
+	"1Month": "+6.87%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29186"
+	},
+	"code": 600135,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  SaveEasy  2040  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "12.27%",
+	"1Year": "+33.12%",
+	"YTD": "+6.83%",
+	"6Month": "+16.58%",
+	"3Month": "+11.28%",
+	"1Month": "+6.83%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29187"
+	},
+	"code": 600213,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nFidelity  (Master)",
+	"name": "Fidelity  SaveEasy  2035  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "12.45%",
+	"1Year": "+33.09%",
+	"YTD": "+6.84%",
+	"6Month": "+16.55%",
+	"3Month": "+11.24%",
+	"1Month": "+6.84%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29188"
+	},
+	"code": 600134,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  SaveEasy  2035  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "12.21%",
+	"1Year": "+32.99%",
+	"YTD": "+6.83%",
+	"6Month": "+16.51%",
+	"3Month": "+11.25%",
+	"1Month": "+6.83%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29189"
+	},
+	"code": 600212,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nFidelity  (Master)",
+	"name": "Fidelity  SaveEasy  2030  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "12.26%",
+	"1Year": "+32.78%",
+	"YTD": "+6.75%",
+	"6Month": "+16.41%",
+	"3Month": "+11.16%",
+	"1Month": "+6.75%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2918a"
+	},
+	"code": 600133,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  SaveEasy  2030  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "12.09%",
+	"1Year": "+32.60%",
+	"YTD": "+6.75%",
+	"6Month": "+16.39%",
+	"3Month": "+11.09%",
+	"1Month": "+6.75%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2918b"
+	},
+	"code": 600442,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Growth  Fund ",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.10%",
+	"1Year": "+32.07%",
+	"YTD": "+6.63%",
+	"6Month": "+15.84%",
+	"3Month": "+10.28%",
+	"1Month": "+6.63%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2918c"
+	},
+	"code": 600039,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAIA  (Prime)",
+	"name": "Growth  Portfolio",
+	"RiskLevel": 20,
+	"RiskIndicator": "11.00%",
+	"1Year": "+32.28%",
+	"YTD": "+6.38%",
+	"6Month": "+15.76%",
+	"3Month": "+10.41%",
+	"1Month": "+6.38%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2918d"
+	},
+	"code": 600132,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  SaveEasy  2025  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "11.70%",
+	"1Year": "+31.02%",
+	"YTD": "+6.42%",
+	"6Month": "+15.59%",
+	"3Month": "+10.55%",
+	"1Month": "+6.42%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2918e"
+	},
+	"code": 600330,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  2045  Retirement  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "11.13%",
+	"1Year": "+30.58%",
+	"YTD": "+6.48%",
+	"6Month": "+15.20%",
+	"3Month": "+10.23%",
+	"1Month": "+6.48%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2918f"
+	},
+	"code": 600467,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Growth  Portfolio ",
+	"RiskLevel": 20,
+	"RiskIndicator": "10.34%",
+	"1Year": "+30.25%",
+	"YTD": "+6.82%",
+	"6Month": "+14.70%",
+	"3Month": "+10.37%",
+	"1Month": "+6.82%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29190"
+	},
+	"code": 600564,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (600)",
+	"name": "Principal  Aggressive  Strategy  Fund ",
+	"RiskLevel": 0,
+	"RiskIndicator": "10.43%",
+	"1Year": "+30.76%",
+	"YTD": "+6.30%",
+	"6Month": "+14.46%",
+	"3Month": "+9.54%",
+	"1Month": "+6.30%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29191"
+	},
+	"code": 600241,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHang  Seng  (SuperTrust  Plus)",
+	"name": "Growth  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "11.79%",
+	"1Year": "+29.23%",
+	"YTD": "+5.99%",
+	"6Month": "+13.87%",
+	"3Month": "+9.74%",
+	"1Month": "+5.99%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29192"
+	},
+	"code": 600527,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  Growth  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "7.92%",
+	"1Year": "+26.92%",
+	"YTD": "+4.85%",
+	"6Month": "+13.00%",
+	"3Month": "+8.54%",
+	"1Month": "+4.85%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29193"
+	},
+	"code": 600326,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  2025  Retirement  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "9.46%",
+	"1Year": "+26.00%",
+	"YTD": "+5.66%",
+	"6Month": "+12.80%",
+	"3Month": "+8.97%",
+	"1Month": "+5.66%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29194"
+	},
+	"code": 600191,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBOCI-Prudential  (My  Choice)",
+	"name": "My  Choice  Growth  Fund",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.36%",
+	"1Year": "+31.90%",
+	"YTD": "+6.59%",
+	"6Month": "+16.16%",
+	"3Month": "+10.94%",
+	"1Month": "+6.59%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29195"
+	},
+	"code": 600487,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Fidelity  Global  Investment  Fund ",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.36%",
+	"1Year": "+31.20%",
+	"YTD": "+6.54%",
+	"6Month": "+15.84%",
+	"3Month": "+10.78%",
+	"1Month": "+6.54%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29196"
+	},
+	"code": 600034,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAIA  (Prime)",
+	"name": "Fidelity  Growth  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "11.53%",
+	"1Year": "+30.86%",
+	"YTD": "+6.54%",
+	"6Month": "+15.70%",
+	"3Month": "+10.69%",
+	"1Month": "+6.54%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29197"
+	},
+	"code": 600180,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"name": "BOC-Prudential  Growth  Fund",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.57%",
+	"1Year": "+31.08%",
+	"YTD": "+6.46%",
+	"6Month": "+15.54%",
+	"3Month": "+10.35%",
+	"1Month": "+6.46%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29198"
+	},
+	"code": 600329,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  2040  Retirement  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "11.05%",
+	"1Year": "+30.45%",
+	"YTD": "+6.45%",
+	"6Month": "+15.15%",
+	"3Month": "+10.19%",
+	"1Month": "+6.45%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29199"
+	},
+	"code": 600468,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Growth  Portfolio ",
+	"RiskLevel": 20,
+	"RiskIndicator": "10.34%",
+	"1Year": "+29.97%",
+	"YTD": "+6.81%",
+	"6Month": "+14.61%",
+	"3Month": "+10.31%",
+	"1Month": "+6.81%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2919a"
+	},
+	"code": 600067,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAMTD  (MPF)",
+	"name": "AMTD  Invesco  Target  2048  Retirement  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "10.57%",
+	"1Year": "+30.72%",
+	"YTD": "+5.39%",
+	"6Month": "+14.43%",
+	"3Month": "+9.62%",
+	"1Month": "+5.39%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2919b"
+	},
+	"code": 600272,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHSBC  (SuperTrust  Plus)",
+	"name": "Growth  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "11.79%",
+	"1Year": "+29.23%",
+	"YTD": "+5.99%",
+	"6Month": "+13.87%",
+	"3Month": "+9.74%",
+	"1Month": "+5.99%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2919c"
+	},
+	"code": 600477,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSHKP  (Employer)",
+	"name": "Fidelity  Balanced  Fund",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.07%",
+	"1Year": "+25.94%",
+	"YTD": "+5.28%",
+	"6Month": "+12.91%",
+	"3Month": "+8.86%",
+	"1Month": "+5.28%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2919d"
+	},
+	"code": 600311,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "Balanced  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "8.76%",
+	"1Year": "+26.66%",
+	"YTD": "+4.79%",
+	"6Month": "+12.78%",
+	"3Month": "+8.57%",
+	"1Month": "+4.79%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2919e"
+	},
+	"code": 600337,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  Growth  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "8.92%",
+	"1Year": "+25.38%",
+	"YTD": "+5.46%",
+	"6Month": "+12.57%",
+	"3Month": "+8.62%",
+	"1Month": "+5.46%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2919f"
+	},
+	"code": 600110,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Industry)",
+	"name": "BCT  (Industry)  E70  Mixed  Asset  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "8.70%",
+	"1Year": "+26.02%",
+	"YTD": "+4.74%",
+	"6Month": "+12.51%",
+	"3Month": "+8.43%",
+	"1Month": "+4.74%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291a0"
+	},
+	"code": 600435,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Balanced  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "9.42%",
+	"1Year": "+25.39%",
+	"YTD": "+5.46%",
+	"6Month": "+12.21%",
+	"3Month": "+8.41%",
+	"1Month": "+5.46%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291a1"
+	},
+	"code": 600187,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBOCI-Prudential  (My  Choice)",
+	"name": "My  Choice  Balanced  Fund",
+	"RiskLevel": 0,
+	"RiskIndicator": "8.10%",
+	"1Year": "+24.85%",
+	"YTD": "+5.55%",
+	"6Month": "+12.00%",
+	"3Month": "+8.54%",
+	"1Month": "+5.55%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291a2"
+	},
+	"code": 600460,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Balanced  Investment  Portfolio ",
+	"RiskLevel": 20,
+	"RiskIndicator": "8.12%",
+	"1Year": "+23.96%",
+	"YTD": "+5.49%",
+	"6Month": "+11.63%",
+	"3Month": "+8.37%",
+	"1Month": "+5.49%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291a3"
+	},
+	"code": 600390,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (600)",
+	"name": "Principal  Global  Growth  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "8.36%",
+	"1Year": "+25.22%",
+	"YTD": "+5.09%",
+	"6Month": "+11.54%",
+	"3Month": "+7.77%",
+	"1Month": "+5.09%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291a4"
+	},
+	"code": 600407,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  Global  Growth  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "8.35%",
+	"1Year": "+24.90%",
+	"YTD": "+5.07%",
+	"6Month": "+11.40%",
+	"3Month": "+7.69%",
+	"1Month": "+5.07%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291a5"
+	},
+	"code": 600488,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "HSBC  MPF  \"A\" ",
+	"RiskLevel": 41,
+	"RiskIndicator": "9.22%",
+	"1Year": "+24.16%",
+	"YTD": "+4.93%",
+	"6Month": "+11.19%",
+	"3Month": "+8.11%",
+	"1Month": "+4.93%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291a6"
+	},
+	"code": 600516,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  Balanced  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "6.21%",
+	"1Year": "+20.79%",
+	"YTD": "+3.89%",
+	"6Month": "+9.91%",
+	"3Month": "+6.74%",
+	"1Month": "+3.89%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291a7"
+	},
+	"code": 600199,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nChina  Life  (Master)",
+	"name": "China  Life  Growth  Fund",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.52%",
+	"1Year": "+31.38%",
+	"YTD": "+6.55%",
+	"6Month": "+15.94%",
+	"3Month": "+10.84%",
+	"1Month": "+6.55%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291a8"
+	},
+	"code": 600482,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSHKP  (Employer)",
+	"name": "SHKP  MPF  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "11.25%",
+	"1Year": "+28.04%",
+	"YTD": "+6.76%",
+	"6Month": "+15.76%",
+	"3Month": "+10.11%",
+	"1Month": "+6.76%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291a9"
+	},
+	"code": 600335,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  Fidelity  Growth  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "11.38%",
+	"1Year": "+30.78%",
+	"YTD": "+6.52%",
+	"6Month": "+15.66%",
+	"3Month": "+10.70%",
+	"1Month": "+6.52%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291aa"
+	},
+	"code": 600331,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  Aggressive  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "11.14%",
+	"1Year": "+30.52%",
+	"YTD": "+6.45%",
+	"6Month": "+15.27%",
+	"3Month": "+10.14%",
+	"1Month": "+6.45%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291ab"
+	},
+	"code": 600328,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  2035  Retirement  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "10.94%",
+	"1Year": "+30.08%",
+	"YTD": "+6.40%",
+	"6Month": "+14.99%",
+	"3Month": "+10.10%",
+	"1Month": "+6.40%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291ac"
+	},
+	"code": 600303,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Comprehensive)",
+	"name": "Sun  Life  MPF  Comprehensive  Scheme  Growth  Portfolio",
+	"RiskLevel": 0,
+	"RiskIndicator": "10.49%",
+	"1Year": "+29.57%",
+	"YTD": "+6.76%",
+	"6Month": "+14.49%",
+	"3Month": "+10.21%",
+	"1Month": "+6.76%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291ad"
+	},
+	"code": 600591,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPRHK  (Smart)",
+	"name": "Principal  Growth  Fund",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.67%",
+	"1Year": "+30.57%",
+	"YTD": "+6.20%",
+	"6Month": "+14.19%",
+	"3Month": "+9.38%",
+	"1Month": "+6.20%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291ae"
+	},
+	"code": 600120,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  E70  Mixed  Asset  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "8.73%",
+	"1Year": "+27.02%",
+	"YTD": "+5.59%",
+	"6Month": "+13.29%",
+	"3Month": "+9.15%",
+	"1Month": "+5.59%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291af"
+	},
+	"code": 600434,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Balanced  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "9.42%",
+	"1Year": "+26.83%",
+	"YTD": "+5.59%",
+	"6Month": "+12.84%",
+	"3Month": "+8.67%",
+	"1Month": "+5.59%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291b0"
+	},
+	"code": 600198,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nChina  Life  (Master)",
+	"name": "China  Life  Balanced  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "9.24%",
+	"1Year": "+25.34%",
+	"YTD": "+5.25%",
+	"6Month": "+12.67%",
+	"3Month": "+8.77%",
+	"1Month": "+5.25%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291b1"
+	},
+	"code": 600068,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAMTD  (MPF)",
+	"name": "AMTD  Allianz  Choice  Balanced  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "9.40%",
+	"1Year": "+26.19%",
+	"YTD": "+5.52%",
+	"6Month": "+12.54%",
+	"3Month": "+8.55%",
+	"1Month": "+5.52%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291b2"
+	},
+	"code": 600491,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Invesco  Global  Balanced  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "8.60%",
+	"1Year": "+25.78%",
+	"YTD": "+4.71%",
+	"6Month": "+12.36%",
+	"3Month": "+8.34%",
+	"1Month": "+4.71%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291b3"
+	},
+	"code": 600511,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Basic)",
+	"name": "Manulife  Balanced  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "8.85%",
+	"1Year": "+24.83%",
+	"YTD": "+5.36%",
+	"6Month": "+12.11%",
+	"3Month": "+8.38%",
+	"1Month": "+5.36%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291b4"
+	},
+	"code": 600216,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nFidelity  (Master)",
+	"name": "Growth  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "11.72%",
+	"1Year": "+31.39%",
+	"YTD": "+6.58%",
+	"6Month": "+15.92%",
+	"3Month": "+10.81%",
+	"1Month": "+6.58%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291b5"
+	},
+	"code": 600444,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Growth  Fund ",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.10%",
+	"1Year": "+32.11%",
+	"YTD": "+6.65%",
+	"6Month": "+15.77%",
+	"3Month": "+10.31%",
+	"1Month": "+6.65%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291b6"
+	},
+	"code": 600071,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAMTD  (MPF)",
+	"name": "AMTD  Allianz  Choice  Growth  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "12.07%",
+	"1Year": "+32.16%",
+	"YTD": "+6.69%",
+	"6Month": "+15.68%",
+	"3Month": "+10.30%",
+	"1Month": "+6.69%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291b7"
+	},
+	"code": 600048,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAIA  (Prime)",
+	"name": "Allianz  Growth  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "12.17%",
+	"1Year": "+31.31%",
+	"YTD": "+6.62%",
+	"6Month": "+15.33%",
+	"3Month": "+10.10%",
+	"1Month": "+6.62%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291b8"
+	},
+	"code": 600513,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Basic)",
+	"name": "Manulife  Growth  Fund ",
+	"RiskLevel": 0,
+	"RiskIndicator": "10.89%",
+	"1Year": "+30.14%",
+	"YTD": "+6.48%",
+	"6Month": "+15.01%",
+	"3Month": "+10.20%",
+	"1Month": "+6.48%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291b9"
+	},
+	"code": 600327,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  2030  Retirement  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "10.50%",
+	"1Year": "+29.19%",
+	"YTD": "+6.31%",
+	"6Month": "+14.58%",
+	"3Month": "+9.95%",
+	"1Month": "+6.31%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291ba"
+	},
+	"code": 600044,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAIA  (Prime)",
+	"name": "Manager's  Choice  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "10.60%",
+	"1Year": "+27.11%",
+	"YTD": "+5.76%",
+	"6Month": "+14.25%",
+	"3Month": "+9.52%",
+	"1Month": "+5.76%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291bb"
+	},
+	"code": 600169,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Value)",
+	"name": "BEA  Growth  Fund",
+	"RiskLevel": 0,
+	"RiskIndicator": "8.38%",
+	"1Year": "+27.00%",
+	"YTD": "+5.96%",
+	"6Month": "+13.31%",
+	"3Month": "+9.58%",
+	"1Month": "+5.96%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291bc"
+	},
+	"code": 600312,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "Balanced  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "8.76%",
+	"1Year": "+26.81%",
+	"YTD": "+4.80%",
+	"6Month": "+12.85%",
+	"3Month": "+8.60%",
+	"1Month": "+4.80%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291bd"
+	},
+	"code": 600433,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Balanced  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "9.42%",
+	"1Year": "+26.62%",
+	"YTD": "+5.56%",
+	"6Month": "+12.71%",
+	"3Month": "+8.63%",
+	"1Month": "+5.56%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291be"
+	},
+	"code": 600485,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Fidelity  Global  Investment  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "9.09%",
+	"1Year": "+25.14%",
+	"YTD": "+5.23%",
+	"6Month": "+12.55%",
+	"3Month": "+8.69%",
+	"1Month": "+5.23%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291bf"
+	},
+	"code": 600367,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nMassMutual  (MASS)",
+	"name": "Global  Growth  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "8.26%",
+	"1Year": "+25.91%",
+	"YTD": "+5.49%",
+	"6Month": "+12.43%",
+	"3Month": "+8.45%",
+	"1Month": "+5.49%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291c0"
+	},
+	"code": 600154,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Master)",
+	"name": "BEA  (MPF)  Growth  Fund",
+	"RiskLevel": 0,
+	"RiskIndicator": "8.84%",
+	"1Year": "+24.84%",
+	"YTD": "+5.37%",
+	"6Month": "+12.15%",
+	"3Month": "+8.61%",
+	"1Month": "+5.37%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291c1"
+	},
+	"code": 600644,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHaitong  (MPF)",
+	"name": "Haitong  Core  Accumulation  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.38%",
+	"6Month": "+11.70%",
+	"3Month": "+3.56%",
+	"1Month": "+3.38%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291c2"
+	},
+	"code": 600096,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCOM  (Joyful)",
+	"name": "BCOM  Balanced  (CF)  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "8.24%",
+	"1Year": "+23.99%",
+	"YTD": "+5.50%",
+	"6Month": "+11.62%",
+	"3Month": "+8.36%",
+	"1Month": "+5.50%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291c3"
+	},
+	"code": 600259,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHang  Seng  (ValueChoice)",
+	"name": "ValueChoice  Balanced  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "9.43%",
+	"1Year": "+25.11%",
+	"YTD": "+5.05%",
+	"6Month": "+11.50%",
+	"3Month": "+8.14%",
+	"1Month": "+5.05%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291c4"
+	},
+	"code": 600236,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHang  Seng  (SuperTrust  Plus)",
+	"name": "Balanced  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "9.53%",
+	"1Year": "+24.30%",
+	"YTD": "+4.97%",
+	"6Month": "+11.28%",
+	"3Month": "+8.17%",
+	"1Month": "+4.97%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291c5"
+	},
+	"code": 600174,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"name": "BOC-Prudential  Balanced  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "6.77%",
+	"1Year": "+20.84%",
+	"YTD": "+4.70%",
+	"6Month": "+10.42%",
+	"3Month": "+7.60%",
+	"1Month": "+4.70%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291c6"
+	},
+	"code": 600119,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  E50  Mixed  Asset  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "6.48%",
+	"1Year": "+20.48%",
+	"YTD": "+4.25%",
+	"6Month": "+9.74%",
+	"3Month": "+7.04%",
+	"1Month": "+4.25%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291c7"
+	},
+	"code": 600456,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Stable  Growth  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "7.03%",
+	"1Year": "+20.44%",
+	"YTD": "+4.33%",
+	"6Month": "+9.44%",
+	"3Month": "+6.68%",
+	"1Month": "+4.33%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291c8"
+	},
+	"code": 600455,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Stable  Growth  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "7.03%",
+	"1Year": "+20.17%",
+	"YTD": "+4.29%",
+	"6Month": "+9.33%",
+	"3Month": "+6.65%",
+	"1Month": "+4.29%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291c9"
+	},
+	"code": 600029,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAIA  (Prime)",
+	"name": "Balanced  Portfolio",
+	"RiskLevel": 41,
+	"RiskIndicator": "7.09%",
+	"1Year": "+18.52%",
+	"YTD": "+3.72%",
+	"6Month": "+9.16%",
+	"3Month": "+6.22%",
+	"1Month": "+3.72%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291ca"
+	},
+	"code": 600109,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Industry)",
+	"name": "BCT  (Industry)  E50  Mixed  Asset  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "6.56%",
+	"1Year": "+19.85%",
+	"YTD": "+3.59%",
+	"6Month": "+9.04%",
+	"3Month": "+6.38%",
+	"1Month": "+3.59%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291cb"
+	},
+	"code": 600197,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBOCI-Prudential  (My  Choice)",
+	"name": "My  Choice  Stable  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "6.14%",
+	"1Year": "+19.21%",
+	"YTD": "+4.16%",
+	"6Month": "+8.87%",
+	"3Month": "+6.62%",
+	"1Month": "+4.16%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291cc"
+	},
+	"code": 600616,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCOM  (Joyful)",
+	"name": "BCOM  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.14%",
+	"6Month": "+8.77%",
+	"3Month": "+5.34%",
+	"1Month": "+3.14%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291cd"
+	},
+	"code": 600475,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Stable  Growth  Portfolio ",
+	"RiskLevel": 41,
+	"RiskIndicator": "6.14%",
+	"1Year": "+18.61%",
+	"YTD": "+4.15%",
+	"6Month": "+8.60%",
+	"3Month": "+6.52%",
+	"1Month": "+4.15%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291ce"
+	},
+	"code": 600476,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Stable  Growth  Portfolio ",
+	"RiskLevel": 41,
+	"RiskIndicator": "6.14%",
+	"1Year": "+18.31%",
+	"YTD": "+4.11%",
+	"6Month": "+8.45%",
+	"3Month": "+6.40%",
+	"1Month": "+4.11%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291cf"
+	},
+	"code": 600279,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHSBC  (SuperTrust  Plus)",
+	"name": "Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "7.18%",
+	"1Year": "+14.88%",
+	"YTD": "+3.05%",
+	"6Month": "+8.39%",
+	"3Month": "+5.02%",
+	"1Month": "+3.05%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291d0"
+	},
+	"code": 600307,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Comprehensive)",
+	"name": "Sun  Life  MPF  Comprehensive  Scheme  Stable  Growth  Portfolio",
+	"RiskLevel": 41,
+	"RiskIndicator": "6.23%",
+	"1Year": "+18.01%",
+	"YTD": "+4.03%",
+	"6Month": "+8.33%",
+	"3Month": "+6.38%",
+	"1Month": "+4.03%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291d1"
+	},
+	"code": 600626,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"name": "BOC-Prudential  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.09%",
+	"6Month": "+8.10%",
+	"3Month": "+5.23%",
+	"1Month": "+3.09%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291d2"
+	},
+	"code": 600631,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+2.89%",
+	"6Month": "+7.80%",
+	"3Month": "+5.31%",
+	"1Month": "+2.89%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291d3"
+	},
+	"code": 600185,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"name": "BOC-Prudential  Stable  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.56%",
+	"1Year": "+15.22%",
+	"YTD": "+3.60%",
+	"6Month": "+7.45%",
+	"3Month": "+5.90%",
+	"1Month": "+3.60%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291d4"
+	},
+	"code": 600064,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAMTD  (MPF)",
+	"name": "AMTD  Invesco  Target  2018  Retirement  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "5.47%",
+	"1Year": "+15.98%",
+	"YTD": "+2.79%",
+	"6Month": "+6.37%",
+	"3Month": "+4.90%",
+	"1Month": "+2.79%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291d5"
+	},
+	"code": 600144,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Industry)",
+	"name": "BEA  (Industry  Scheme)  Stable  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.95%",
+	"1Year": "+13.88%",
+	"YTD": "+2.92%",
+	"6Month": "+6.21%",
+	"3Month": "+4.92%",
+	"1Month": "+2.92%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291d6"
+	},
+	"code": 600208,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nFidelity  (Master)",
+	"name": "Balanced  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "9.34%",
+	"1Year": "+25.30%",
+	"YTD": "+5.21%",
+	"6Month": "+12.61%",
+	"3Month": "+8.73%",
+	"1Month": "+5.21%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291d7"
+	},
+	"code": 600203,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nChina  Life  (Master)",
+	"name": "China  Life  Retire-Easy  Balanced  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "8.70%",
+	"1Year": "+26.12%",
+	"YTD": "+4.74%",
+	"6Month": "+12.54%",
+	"3Month": "+8.45%",
+	"1Month": "+4.74%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291d8"
+	},
+	"code": 600497,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Allianz  Choice  Balanced  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "9.29%",
+	"1Year": "+25.81%",
+	"YTD": "+5.50%",
+	"6Month": "+12.35%",
+	"3Month": "+8.44%",
+	"1Month": "+5.50%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291d9"
+	},
+	"code": 600140,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Industry)",
+	"name": "BEA  (Industry  Scheme)  Growth  Fund",
+	"RiskLevel": 0,
+	"RiskIndicator": "8.79%",
+	"1Year": "+24.63%",
+	"YTD": "+5.31%",
+	"6Month": "+12.01%",
+	"3Month": "+8.51%",
+	"1Month": "+5.31%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291da"
+	},
+	"code": 600294,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Basic)",
+	"name": "Sun  Life  MPF  Basic  Scheme  Balanced  Growth  Portfolio",
+	"RiskLevel": 0,
+	"RiskIndicator": "8.22%",
+	"1Year": "+23.93%",
+	"YTD": "+5.50%",
+	"6Month": "+11.63%",
+	"3Month": "+8.37%",
+	"1Month": "+5.50%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291db"
+	},
+	"code": 600301,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Comprehensive)",
+	"name": "Sun  Life  MPF  Comprehensive  Scheme  Balanced  Growth  Portfolio",
+	"RiskLevel": 0,
+	"RiskIndicator": "8.21%",
+	"1Year": "+23.78%",
+	"YTD": "+5.46%",
+	"6Month": "+11.55%",
+	"3Month": "+8.31%",
+	"1Month": "+5.46%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291dc"
+	},
+	"code": 600391,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (600)",
+	"name": "Principal  Global  Growth  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "8.36%",
+	"1Year": "+24.92%",
+	"YTD": "+5.07%",
+	"6Month": "+11.41%",
+	"3Month": "+7.71%",
+	"1Month": "+5.07%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291dd"
+	},
+	"code": 600589,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPRHK  (Smart)",
+	"name": "Principal  Balanced  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "9.86%",
+	"1Year": "+24.88%",
+	"YTD": "+4.95%",
+	"6Month": "+11.22%",
+	"3Month": "+7.59%",
+	"1Month": "+4.95%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291de"
+	},
+	"code": 600517,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  Balanced  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "6.21%",
+	"1Year": "+21.03%",
+	"YTD": "+3.92%",
+	"6Month": "+10.03%",
+	"3Month": "+6.80%",
+	"1Month": "+3.92%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291df"
+	},
+	"code": 600220,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nFidelity  (Master)",
+	"name": "Stable  Growth  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "7.28%",
+	"1Year": "+20.05%",
+	"YTD": "+4.00%",
+	"6Month": "+9.63%",
+	"3Month": "+6.87%",
+	"1Month": "+4.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291e0"
+	},
+	"code": 600614,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  MPF  Core  Accumulation  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.48%",
+	"6Month": "+9.34%",
+	"3Month": "+5.65%",
+	"1Month": "+3.48%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291e1"
+	},
+	"code": 600148,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Master)",
+	"name": "BEA  (MPF)  Balanced  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "6.69%",
+	"1Year": "+19.34%",
+	"YTD": "+4.18%",
+	"6Month": "+9.21%",
+	"3Month": "+6.78%",
+	"1Month": "+4.18%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291e2"
+	},
+	"code": 600618,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Master)",
+	"name": "BEA  (MPF)  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+4.12%",
+	"6Month": "+9.08%",
+	"3Month": "+6.14%",
+	"1Month": "+4.12%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291e3"
+	},
+	"code": 600515,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Basic)",
+	"name": "Manulife  Stable  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "6.86%",
+	"1Year": "+18.87%",
+	"YTD": "+4.13%",
+	"6Month": "+9.01%",
+	"3Month": "+6.50%",
+	"1Month": "+4.13%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291e4"
+	},
+	"code": 600605,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "Core  Accumulation  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.14%",
+	"6Month": "+8.81%",
+	"3Month": "+5.37%",
+	"1Month": "+3.14%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291e5"
+	},
+	"code": 600608,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAMTD  (MPF)",
+	"name": "AMTD  Invesco  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.11%",
+	"6Month": "+8.68%",
+	"3Month": "+5.27%",
+	"1Month": "+3.11%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291e6"
+	},
+	"code": 600660,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (600)",
+	"name": "Principal  Core  Accumulation  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.25%",
+	"6Month": "+8.53%",
+	"3Month": "+5.60%",
+	"1Month": "+3.25%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291e7"
+	},
+	"code": 600395,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (600)",
+	"name": "Principal  Long  Term  Accumulation  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "6.46%",
+	"1Year": "+19.61%",
+	"YTD": "+3.78%",
+	"6Month": "+8.43%",
+	"3Month": "+5.83%",
+	"1Month": "+3.78%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291e8"
+	},
+	"code": 600292,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHSBC  (ValueChoice)",
+	"name": "Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "7.01%",
+	"1Year": "+14.66%",
+	"YTD": "+3.01%",
+	"6Month": "+8.38%",
+	"3Month": "+4.97%",
+	"1Month": "+3.01%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291e9"
+	},
+	"code": 600396,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (600)",
+	"name": "Principal  Long  Term  Accumulation  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "6.46%",
+	"1Year": "+19.33%",
+	"YTD": "+3.76%",
+	"6Month": "+8.30%",
+	"3Month": "+5.77%",
+	"1Month": "+3.76%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291ea"
+	},
+	"code": 600638,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Basic)",
+	"name": "Manulife  MPF  Core  Accumulation  Fund  –  Basic",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+2.99%",
+	"6Month": "+8.00%",
+	"3Month": "+5.21%",
+	"1Month": "+2.99%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291eb"
+	},
+	"code": 600652,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Basic)",
+	"name": "Sun  Life  MPF  Basic  Scheme  Core  Accumulation  Portfolio",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+2.97%",
+	"6Month": "+7.76%",
+	"3Month": "+5.31%",
+	"1Month": "+2.97%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291ec"
+	},
+	"code": 600529,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  Stable  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "4.74%",
+	"1Year": "+15.53%",
+	"YTD": "+2.83%",
+	"6Month": "+6.80%",
+	"3Month": "+5.02%",
+	"1Month": "+2.83%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291ed"
+	},
+	"code": 600486,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Fidelity  Global  Investment  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "5.10%",
+	"1Year": "+14.08%",
+	"YTD": "+2.67%",
+	"6Month": "+6.32%",
+	"3Month": "+4.72%",
+	"1Month": "+2.67%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291ee"
+	},
+	"code": 600437,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Capital  Stable  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "5.05%",
+	"1Year": "+14.30%",
+	"YTD": "+2.99%",
+	"6Month": "+6.14%",
+	"3Month": "+4.76%",
+	"1Month": "+2.99%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291ef"
+	},
+	"code": 600313,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "Capital  Stable  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.68%",
+	"1Year": "+14.62%",
+	"YTD": "+2.49%",
+	"6Month": "+5.98%",
+	"3Month": "+4.51%",
+	"1Month": "+2.49%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291f0"
+	},
+	"code": 600278,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHSBC  (SuperTrust  Plus)",
+	"name": "Stable  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "5.29%",
+	"1Year": "+13.63%",
+	"YTD": "+2.64%",
+	"6Month": "+5.61%",
+	"3Month": "+4.55%",
+	"1Month": "+2.64%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291f1"
+	},
+	"code": 600423,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  Stable  Yield  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "4.72%",
+	"1Year": "+14.15%",
+	"YTD": "+2.54%",
+	"6Month": "+5.49%",
+	"3Month": "+3.98%",
+	"1Month": "+2.54%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291f2"
+	},
+	"code": 600424,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  Stable  Yield  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "4.72%",
+	"1Year": "+13.88%",
+	"YTD": "+2.52%",
+	"6Month": "+5.37%",
+	"3Month": "+3.92%",
+	"1Month": "+2.52%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291f3"
+	},
+	"code": 600617,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Master)",
+	"name": "BEA  (MPF)  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+1.24%",
+	"6Month": "+3.18%",
+	"3Month": "+2.05%",
+	"1Month": "+1.24%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291f4"
+	},
+	"code": 600428,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Absolute  Return  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.23%",
+	"1Year": "+6.78%",
+	"YTD": "+1.05%",
+	"6Month": "+2.75%",
+	"3Month": "+1.87%",
+	"1Month": "+1.05%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291f5"
+	},
+	"code": 600115,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  Absolute  Return  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.18%",
+	"1Year": "+6.64%",
+	"YTD": "+1.03%",
+	"6Month": "+2.65%",
+	"3Month": "+1.84%",
+	"1Month": "+1.03%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291f6"
+	},
+	"code": 600657,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nMassMutual  (MASS)",
+	"name": "Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.55%",
+	"6Month": "+2.55%",
+	"3Month": "+1.28%",
+	"1Month": "+0.55%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291f7"
+	},
+	"code": 600601,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.50%",
+	"6Month": "+2.42%",
+	"3Month": "+1.18%",
+	"1Month": "+0.50%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291f8"
+	},
+	"code": 600663,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPRHK  (Simple)",
+	"name": "Principal  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.59%",
+	"6Month": "+2.28%",
+	"3Month": "+1.28%",
+	"1Month": "+0.59%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291f9"
+	},
+	"code": 600627,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBOCI-Prudential  (My  Choice)",
+	"name": "My  Choice  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.38%",
+	"6Month": "+2.11%",
+	"3Month": "+1.12%",
+	"1Month": "+0.38%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291fa"
+	},
+	"code": 600651,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Basic)",
+	"name": "Sun  Life  MPF  Basic  Scheme  Age  65  Plus  Portfolio",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.29%",
+	"6Month": "+1.89%",
+	"3Month": "+0.99%",
+	"1Month": "+0.29%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291fb"
+	},
+	"code": 600650,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Core  Accumulation  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "N/A",
+	"6Month": "N/A",
+	"3Month": "N/A",
+	"1Month": "N/A"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291fc"
+	},
+	"code": 600066,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAMTD  (MPF)",
+	"name": "AMTD  Invesco  Target  2038  Retirement  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "8.73%",
+	"1Year": "+25.79%",
+	"YTD": "+4.55%",
+	"6Month": "+11.70%",
+	"3Month": "+8.06%",
+	"1Month": "+4.55%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291fd"
+	},
+	"code": 600643,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHaitong  (MPF)",
+	"name": "Haitong  Core  Accumulation  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.32%",
+	"6Month": "+11.59%",
+	"3Month": "+3.50%",
+	"1Month": "+3.32%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291fe"
+	},
+	"code": 600290,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHSBC  (ValueChoice)",
+	"name": "ValueChoice  Balanced  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "9.43%",
+	"1Year": "+25.11%",
+	"YTD": "+5.05%",
+	"6Month": "+11.50%",
+	"3Month": "+8.14%",
+	"1Month": "+5.05%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea291ff"
+	},
+	"code": 600578,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPRHK  (Simple)",
+	"name": "Principal  Balanced  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "9.83%",
+	"1Year": "+24.90%",
+	"YTD": "+4.96%",
+	"6Month": "+11.24%",
+	"3Month": "+7.56%",
+	"1Month": "+4.96%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29200"
+	},
+	"code": 600164,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Value)",
+	"name": "BEA  Balanced  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "6.48%",
+	"1Year": "+21.10%",
+	"YTD": "+4.66%",
+	"6Month": "+10.20%",
+	"3Month": "+7.56%",
+	"1Month": "+4.66%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29201"
+	},
+	"code": 600481,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSHKP  (Employer)",
+	"name": "Allianz  Choice  Stable  Growth  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "7.00%",
+	"1Year": "+20.58%",
+	"YTD": "+4.31%",
+	"6Month": "+9.51%",
+	"3Month": "+6.77%",
+	"1Month": "+4.31%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29202"
+	},
+	"code": 600613,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  MPF  Core  Accumulation  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.48%",
+	"6Month": "+9.34%",
+	"3Month": "+5.65%",
+	"1Month": "+3.48%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29203"
+	},
+	"code": 600612,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  MPF  Core  Accumulation  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.39%",
+	"6Month": "+9.20%",
+	"3Month": "+5.42%",
+	"1Month": "+3.39%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29204"
+	},
+	"code": 600620,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Industry)",
+	"name": "BEA  (Industry  Scheme)  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+4.11%",
+	"6Month": "+9.07%",
+	"3Month": "+6.13%",
+	"1Month": "+4.11%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29205"
+	},
+	"code": 600049,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAIA  (Prime)",
+	"name": "Allianz  Stable  Growth  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "7.14%",
+	"1Year": "+19.44%",
+	"YTD": "+4.26%",
+	"6Month": "+9.01%",
+	"3Month": "+6.51%",
+	"1Month": "+4.26%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29206"
+	},
+	"code": 600606,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "Core  Accumulation  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.14%",
+	"6Month": "+8.81%",
+	"3Month": "+5.37%",
+	"1Month": "+3.14%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29207"
+	},
+	"code": 600602,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.12%",
+	"6Month": "+8.67%",
+	"3Month": "+5.31%",
+	"1Month": "+3.12%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29208"
+	},
+	"code": 600105,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCOM  (Joyful)",
+	"name": "BCOM  Stable  Growth  (CF)  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "6.24%",
+	"1Year": "+18.38%",
+	"YTD": "+4.12%",
+	"6Month": "+8.51%",
+	"3Month": "+6.45%",
+	"1Month": "+4.12%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29209"
+	},
+	"code": 600666,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPRHK  (Smart)",
+	"name": "Principal  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.23%",
+	"6Month": "+8.42%",
+	"3Month": "+5.56%",
+	"1Month": "+3.23%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2920a"
+	},
+	"code": 600261,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHang  Seng  (ValueChoice)",
+	"name": "Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "7.01%",
+	"1Year": "+14.66%",
+	"YTD": "+3.01%",
+	"6Month": "+8.38%",
+	"3Month": "+4.97%",
+	"1Month": "+3.01%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2920b"
+	},
+	"code": 600640,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nFidelity  (Master)",
+	"name": "Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.06%",
+	"6Month": "+8.24%",
+	"3Month": "+5.37%",
+	"1Month": "+3.06%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2920c"
+	},
+	"code": 600636,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Manulife  MPF  Core  Accumulation  Fund  –  Advanced",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+2.97%",
+	"6Month": "+7.98%",
+	"3Month": "+5.19%",
+	"1Month": "+2.97%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2920d"
+	},
+	"code": 600654,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Comprehensive)",
+	"name": "Sun  Life  MPF  Comprehensive  Scheme  Core  Accumulation  Portfolio",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+2.87%",
+	"6Month": "+7.76%",
+	"3Month": "+5.31%",
+	"1Month": "+2.87%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2920e"
+	},
+	"code": 600528,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  Stable  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "4.74%",
+	"1Year": "+15.30%",
+	"YTD": "+2.81%",
+	"6Month": "+6.69%",
+	"3Month": "+4.97%",
+	"1Month": "+2.81%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2920f"
+	},
+	"code": 600160,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Master)",
+	"name": "BEA  (MPF)  Stable  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.98%",
+	"1Year": "+14.00%",
+	"YTD": "+2.95%",
+	"6Month": "+6.26%",
+	"3Month": "+4.96%",
+	"1Month": "+2.95%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29210"
+	},
+	"code": 600438,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Capital  Stable  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "5.05%",
+	"1Year": "+14.20%",
+	"YTD": "+2.97%",
+	"6Month": "+6.13%",
+	"3Month": "+4.61%",
+	"1Month": "+2.97%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29211"
+	},
+	"code": 600498,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Allianz  Choice  Capital  Stable  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.97%",
+	"1Year": "+13.77%",
+	"YTD": "+2.91%",
+	"6Month": "+5.94%",
+	"3Month": "+4.61%",
+	"1Month": "+2.91%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29212"
+	},
+	"code": 600204,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nChina  Life  (Master)",
+	"name": "China  Life  Retire-Easy  Capital  Stable  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.69%",
+	"1Year": "+13.83%",
+	"YTD": "+2.37%",
+	"6Month": "+5.57%",
+	"3Month": "+4.24%",
+	"1Month": "+2.37%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29213"
+	},
+	"code": 600464,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Capital  Stable  Portfolio ",
+	"RiskLevel": 41,
+	"RiskIndicator": "4.44%",
+	"1Year": "+12.71%",
+	"YTD": "+2.76%",
+	"6Month": "+5.41%",
+	"3Month": "+4.42%",
+	"1Month": "+2.76%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29214"
+	},
+	"code": 600593,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPRHK  (Smart)",
+	"name": "Principal  Stable  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "5.69%",
+	"1Year": "+13.41%",
+	"YTD": "+2.28%",
+	"6Month": "+5.04%",
+	"3Month": "+3.64%",
+	"1Month": "+2.28%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29215"
+	},
+	"code": 600609,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  MPF  Age  65  Plus  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.97%",
+	"6Month": "+3.18%",
+	"3Month": "+1.96%",
+	"1Month": "+0.97%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29216"
+	},
+	"code": 600645,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHang  Seng  (ValueChoice)",
+	"name": "Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.60%",
+	"6Month": "+2.73%",
+	"3Month": "+1.30%",
+	"1Month": "+0.60%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29217"
+	},
+	"code": 600429,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Absolute  Return  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.23%",
+	"1Year": "+6.76%",
+	"YTD": "+1.04%",
+	"6Month": "+2.61%",
+	"3Month": "+1.84%",
+	"1Month": "+1.04%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29218"
+	},
+	"code": 600615,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCOM  (Joyful)",
+	"name": "BCOM  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.55%",
+	"6Month": "+2.54%",
+	"3Month": "+1.24%",
+	"1Month": "+0.55%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29219"
+	},
+	"code": 600659,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (600)",
+	"name": "Principal  Age  65  Plus  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.49%",
+	"6Month": "+2.41%",
+	"3Month": "+1.29%",
+	"1Month": "+0.49%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2921a"
+	},
+	"code": 600665,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPRHK  (Smart)",
+	"name": "Principal  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.49%",
+	"6Month": "+2.28%",
+	"3Month": "+1.18%",
+	"1Month": "+0.49%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2921b"
+	},
+	"code": 600637,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Basic)",
+	"name": "Manulife  MPF  Age  65  Plus  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.34%",
+	"6Month": "+2.08%",
+	"3Month": "+1.02%",
+	"1Month": "+0.34%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2921c"
+	},
+	"code": 600653,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Comprehensive)",
+	"name": "Sun  Life  MPF  Comprehensive  Scheme  Age  65  Plus  Portfolio",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.29%",
+	"6Month": "+1.89%",
+	"3Month": "+0.99%",
+	"1Month": "+0.29%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2921d"
+	},
+	"code": 600648,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Age  65  Plus  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "N/A",
+	"6Month": "N/A",
+	"3Month": "N/A",
+	"1Month": "N/A"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2921e"
+	},
+	"code": 600314,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "Capital  Stable  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.68%",
+	"1Year": "+14.75%",
+	"YTD": "+2.50%",
+	"6Month": "+6.05%",
+	"3Month": "+4.54%",
+	"1Month": "+2.50%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2921f"
+	},
+	"code": 600030,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAIA  (Prime)",
+	"name": "Capital  Stable  Portfolio",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.83%",
+	"1Year": "+12.25%",
+	"YTD": "+2.32%",
+	"6Month": "+5.74%",
+	"3Month": "+4.01%",
+	"1Month": "+2.32%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29220"
+	},
+	"code": 600463,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Capital  Stable  Portfolio ",
+	"RiskLevel": 41,
+	"RiskIndicator": "4.41%",
+	"1Year": "+12.93%",
+	"YTD": "+2.81%",
+	"6Month": "+5.53%",
+	"3Month": "+4.46%",
+	"1Month": "+2.81%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29221"
+	},
+	"code": 600566,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (600)",
+	"name": "Principal  Stable  Yield  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.73%",
+	"1Year": "+13.91%",
+	"YTD": "+2.52%",
+	"6Month": "+5.38%",
+	"3Month": "+3.94%",
+	"1Month": "+2.52%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29222"
+	},
+	"code": 600619,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Industry)",
+	"name": "BEA  (Industry  Scheme)  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+1.26%",
+	"6Month": "+3.25%",
+	"3Month": "+2.09%",
+	"1Month": "+1.26%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29223"
+	},
+	"code": 600611,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  MPF  Age  65  Plus  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.95%",
+	"6Month": "+3.11%",
+	"3Month": "+1.92%",
+	"1Month": "+0.95%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29224"
+	},
+	"code": 600270,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHSBC  (SuperTrust  Plus)",
+	"name": "Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "3.30%",
+	"1Year": "+5.80%",
+	"YTD": "+0.60%",
+	"6Month": "+2.73%",
+	"3Month": "+1.30%",
+	"1Month": "+0.60%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29225"
+	},
+	"code": 600604,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "Age  65  Plus  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.55%",
+	"6Month": "+2.57%",
+	"3Month": "+1.25%",
+	"1Month": "+0.55%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29226"
+	},
+	"code": 600607,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAMTD  (MPF)",
+	"name": "AMTD  Invesco  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.54%",
+	"6Month": "+2.50%",
+	"3Month": "+1.22%",
+	"1Month": "+0.54%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29227"
+	},
+	"code": 600599,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Industry)",
+	"name": "BCT  (Industry)  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.54%",
+	"6Month": "+2.37%",
+	"3Month": "+1.24%",
+	"1Month": "+0.54%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29228"
+	},
+	"code": 600597,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAIA  (Prime)",
+	"name": "Age  65  Plus  Fund  ",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.37%",
+	"6Month": "+2.14%",
+	"3Month": "+1.11%",
+	"1Month": "+0.37%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29229"
+	},
+	"code": 600629,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.32%",
+	"6Month": "+2.00%",
+	"3Month": "+1.04%",
+	"1Month": "+0.32%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2922a"
+	},
+	"code": 600642,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHaitong  (MPF)",
+	"name": "Haitong  Age  65  Plus  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "0.00%",
+	"6Month": "+1.75%",
+	"3Month": "-0.29%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2922b"
+	},
+	"code": 600121,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  E90  Mixed  Asset  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "11.46%",
+	"1Year": "+31.23%",
+	"YTD": "+6.52%",
+	"6Month": "+15.85%",
+	"3Month": "+10.78%",
+	"1Month": "+6.52%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2922c"
+	},
+	"code": 600443,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Growth  Fund ",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.10%",
+	"1Year": "+32.39%",
+	"YTD": "+6.69%",
+	"6Month": "+15.78%",
+	"3Month": "+10.35%",
+	"1Month": "+6.69%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2922d"
+	},
+	"code": 600211,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nFidelity  (Master)",
+	"name": "Fidelity  SaveEasy  2025  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "11.90%",
+	"1Year": "+31.17%",
+	"YTD": "+6.49%",
+	"6Month": "+15.68%",
+	"3Month": "+10.61%",
+	"1Month": "+6.49%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2922e"
+	},
+	"code": 600098,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCOM  (Joyful)",
+	"name": "BCOM  Dynamic  Growth  (CF)  Fund",
+	"RiskLevel": 0,
+	"RiskIndicator": "12.07%",
+	"1Year": "+31.61%",
+	"YTD": "+6.62%",
+	"6Month": "+15.50%",
+	"3Month": "+10.19%",
+	"1Month": "+6.62%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2922f"
+	},
+	"code": 600505,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Manulife  Growth  Fund ",
+	"RiskLevel": 0,
+	"RiskIndicator": "10.89%",
+	"1Year": "+30.14%",
+	"YTD": "+6.48%",
+	"6Month": "+15.02%",
+	"3Month": "+10.20%",
+	"1Month": "+6.48%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29230"
+	},
+	"code": 600563,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (600)",
+	"name": "Principal  Aggressive  Strategy  Fund ",
+	"RiskLevel": 0,
+	"RiskIndicator": "10.43%",
+	"1Year": "+31.07%",
+	"YTD": "+6.32%",
+	"6Month": "+14.60%",
+	"3Month": "+9.61%",
+	"1Month": "+6.32%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29231"
+	},
+	"code": 600579,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPRHK  (Simple)",
+	"name": "Principal  Growth  Fund",
+	"RiskLevel": 0,
+	"RiskIndicator": "11.69%",
+	"1Year": "+30.67%",
+	"YTD": "+6.25%",
+	"6Month": "+14.27%",
+	"3Month": "+9.41%",
+	"1Month": "+6.25%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29232"
+	},
+	"code": 600667,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAIA  (Prime)",
+	"name": "China  HK  Dynamic  Asset  Allocation  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+6.76%",
+	"6Month": "+13.43%",
+	"3Month": "+10.18%",
+	"1Month": "+6.76%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29233"
+	},
+	"code": 600324,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  Smart  Retirement  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "6.73%",
+	"1Year": "+20.28%",
+	"YTD": "+4.36%",
+	"6Month": "+9.68%",
+	"3Month": "+7.08%",
+	"1Month": "+4.36%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29234"
+	},
+	"code": 600072,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAMTD  (MPF)",
+	"name": "AMTD  Allianz  Choice  Stable  Growth  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "7.07%",
+	"1Year": "+20.28%",
+	"YTD": "+4.33%",
+	"6Month": "+9.37%",
+	"3Month": "+6.71%",
+	"1Month": "+4.33%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29235"
+	},
+	"code": 600368,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nMassMutual  (MASS)",
+	"name": "Global  Stable  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "6.31%",
+	"1Year": "+19.98%",
+	"YTD": "+4.31%",
+	"6Month": "+9.25%",
+	"3Month": "+6.62%",
+	"1Month": "+4.31%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29236"
+	},
+	"code": 600138,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Industry)",
+	"name": "BEA  (Industry  Scheme)  Balanced  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "6.66%",
+	"1Year": "+19.25%",
+	"YTD": "+4.17%",
+	"6Month": "+9.16%",
+	"3Month": "+6.76%",
+	"1Month": "+4.17%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29237"
+	},
+	"code": 600622,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Value)",
+	"name": "BEA  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+4.11%",
+	"6Month": "+9.04%",
+	"3Month": "+6.11%",
+	"1Month": "+4.11%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29238"
+	},
+	"code": 600508,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Templeton  MPF  Asian  Balanced  Fund",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.70%",
+	"1Year": "+20.33%",
+	"YTD": "+2.80%",
+	"6Month": "+8.83%",
+	"3Month": "+5.89%",
+	"1Month": "+2.80%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29239"
+	},
+	"code": 600658,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nMassMutual  (MASS)",
+	"name": "Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.14%",
+	"6Month": "+8.69%",
+	"3Month": "+5.35%",
+	"1Month": "+3.14%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2923a"
+	},
+	"code": 600624,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nChina  Life  (Master)",
+	"name": "China  Life  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.17%",
+	"6Month": "+8.57%",
+	"3Month": "+5.30%",
+	"1Month": "+3.17%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2923b"
+	},
+	"code": 600418,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  Long  Term  Accumulation  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "6.46%",
+	"1Year": "+19.62%",
+	"YTD": "+3.78%",
+	"6Month": "+8.44%",
+	"3Month": "+5.83%",
+	"1Month": "+3.78%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2923c"
+	},
+	"code": 600248,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHang  Seng  (SuperTrust  Plus)",
+	"name": "Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "7.18%",
+	"1Year": "+14.88%",
+	"YTD": "+3.05%",
+	"6Month": "+8.39%",
+	"3Month": "+5.02%",
+	"1Month": "+3.05%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2923d"
+	},
+	"code": 600419,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  Long  Term  Accumulation  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "6.46%",
+	"1Year": "+19.33%",
+	"YTD": "+3.76%",
+	"6Month": "+8.31%",
+	"3Month": "+5.77%",
+	"1Month": "+3.76%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2923e"
+	},
+	"code": 600598,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAIA  (Prime)",
+	"name": "Core  Accumulation  Fund  ",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+2.99%",
+	"6Month": "+8.02%",
+	"3Month": "+5.23%",
+	"1Month": "+2.99%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2923f"
+	},
+	"code": 600628,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBOCI-Prudential  (My  Choice)",
+	"name": "My  Choice  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+2.81%",
+	"6Month": "+7.80%",
+	"3Month": "+5.28%",
+	"1Month": "+2.81%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29240"
+	},
+	"code": 600172,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Value)",
+	"name": "BEA  Stable  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.94%",
+	"1Year": "+15.53%",
+	"YTD": "+3.43%",
+	"6Month": "+7.19%",
+	"3Month": "+5.74%",
+	"1Month": "+3.43%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29241"
+	},
+	"code": 600118,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  E30  Mixed  Asset  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.50%",
+	"1Year": "+14.10%",
+	"YTD": "+2.94%",
+	"6Month": "+6.35%",
+	"3Month": "+4.92%",
+	"1Month": "+2.94%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29242"
+	},
+	"code": 600436,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Capital  Stable  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "5.05%",
+	"1Year": "+14.12%",
+	"YTD": "+2.86%",
+	"6Month": "+6.18%",
+	"3Month": "+4.73%",
+	"1Month": "+2.86%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29243"
+	},
+	"code": 600572,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSHKP  (Employer)",
+	"name": "Invesco  Global  Stable  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "+14.81%",
+	"YTD": "+2.46%",
+	"6Month": "+6.03%",
+	"3Month": "+4.47%",
+	"1Month": "+2.46%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29244"
+	},
+	"code": 600247,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHang  Seng  (SuperTrust  Plus)",
+	"name": "Stable  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "5.29%",
+	"1Year": "+13.63%",
+	"YTD": "+2.64%",
+	"6Month": "+5.61%",
+	"3Month": "+4.55%",
+	"1Month": "+2.64%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29245"
+	},
+	"code": 600565,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (600)",
+	"name": "Principal  Stable  Yield  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.73%",
+	"1Year": "+14.19%",
+	"YTD": "+2.55%",
+	"6Month": "+5.51%",
+	"3Month": "+4.00%",
+	"1Month": "+2.55%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29246"
+	},
+	"code": 600308,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Comprehensive)",
+	"name": "Sun  Life  MPF  Comprehensive  Scheme  Stable  Portfolio",
+	"RiskLevel": 41,
+	"RiskIndicator": "4.43%",
+	"1Year": "+12.51%",
+	"YTD": "+2.79%",
+	"6Month": "+5.37%",
+	"3Month": "+4.42%",
+	"1Month": "+2.79%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29247"
+	},
+	"code": 600621,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBEA  (Value)",
+	"name": "BEA  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+1.26%",
+	"6Month": "+3.23%",
+	"3Month": "+2.07%",
+	"1Month": "+1.26%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29248"
+	},
+	"code": 600427,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Absolute  Return  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.23%",
+	"1Year": "+6.68%",
+	"YTD": "+1.04%",
+	"6Month": "+2.87%",
+	"3Month": "+1.88%",
+	"1Month": "+1.04%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29249"
+	},
+	"code": 600646,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHSBC  (ValueChoice)",
+	"name": "Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.60%",
+	"6Month": "+2.73%",
+	"3Month": "+1.30%",
+	"1Month": "+0.60%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2924a"
+	},
+	"code": 600603,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "Age  65  Plus  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.55%",
+	"6Month": "+2.57%",
+	"3Month": "+1.25%",
+	"1Month": "+0.55%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2924b"
+	},
+	"code": 600661,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  Age  65  Plus  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.51%",
+	"6Month": "+2.43%",
+	"3Month": "+1.29%",
+	"1Month": "+0.51%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2924c"
+	},
+	"code": 600625,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"name": "BOC-Prudential  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.48%",
+	"6Month": "+2.32%",
+	"3Month": "+1.17%",
+	"1Month": "+0.48%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2924d"
+	},
+	"code": 600639,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nFidelity  (Master)",
+	"name": "Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.32%",
+	"6Month": "+2.12%",
+	"3Month": "+1.00%",
+	"1Month": "+0.32%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2924e"
+	},
+	"code": 600633,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSHKP  (Employer)",
+	"name": "Schroder  MPF  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.29%",
+	"6Month": "+1.97%",
+	"3Month": "+0.99%",
+	"1Month": "+0.29%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2924f"
+	},
+	"code": 600641,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHaitong  (MPF)",
+	"name": "Haitong  Age  65  Plus  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "0.00%",
+	"6Month": "+1.75%",
+	"3Month": "-0.29%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29250"
+	},
+	"code": 600526,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  Growth  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "7.92%",
+	"1Year": "+26.66%",
+	"YTD": "+4.83%",
+	"6Month": "+12.89%",
+	"3Month": "+8.49%",
+	"1Month": "+4.83%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29251"
+	},
+	"code": 600480,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSHKP  (Employer)",
+	"name": "Allianz  Choice  Balanced  Fund",
+	"RiskLevel": 0,
+	"RiskIndicator": "9.29%",
+	"1Year": "+26.59%",
+	"YTD": "+5.54%",
+	"6Month": "+12.74%",
+	"3Month": "+8.62%",
+	"1Month": "+5.54%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29252"
+	},
+	"code": 600210,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nFidelity  (Master)",
+	"name": "Fidelity  SaveEasy  2020  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "10.72%",
+	"1Year": "+25.43%",
+	"YTD": "+4.92%",
+	"6Month": "+12.55%",
+	"3Month": "+8.28%",
+	"1Month": "+4.92%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29253"
+	},
+	"code": 600131,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  SaveEasy  2020  Fund",
+	"RiskLevel": 20,
+	"RiskIndicator": "10.51%",
+	"1Year": "+25.26%",
+	"YTD": "+4.90%",
+	"6Month": "+12.46%",
+	"3Month": "+8.22%",
+	"1Month": "+4.90%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29254"
+	},
+	"code": 600503,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Manulife  Balanced  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "8.85%",
+	"1Year": "+24.88%",
+	"YTD": "+5.37%",
+	"6Month": "+12.15%",
+	"3Month": "+8.40%",
+	"1Month": "+5.37%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29255"
+	},
+	"code": 600459,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Balanced  Investment  Portfolio ",
+	"RiskLevel": 20,
+	"RiskIndicator": "8.11%",
+	"1Year": "+24.25%",
+	"YTD": "+5.53%",
+	"6Month": "+11.71%",
+	"3Month": "+8.46%",
+	"1Month": "+5.53%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29256"
+	},
+	"code": 600501,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Schroder  MPF  Balanced  Investment  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "8.10%",
+	"1Year": "+24.06%",
+	"YTD": "+5.49%",
+	"6Month": "+11.62%",
+	"3Month": "+8.37%",
+	"1Month": "+5.49%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29257"
+	},
+	"code": 600406,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  Global  Growth  Fund ",
+	"RiskLevel": 20,
+	"RiskIndicator": "8.35%",
+	"1Year": "+25.20%",
+	"YTD": "+5.09%",
+	"6Month": "+11.53%",
+	"3Month": "+7.75%",
+	"1Month": "+5.09%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29258"
+	},
+	"code": 600267,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHSBC  (SuperTrust  Plus)",
+	"name": "Balanced  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "9.53%",
+	"1Year": "+24.30%",
+	"YTD": "+4.97%",
+	"6Month": "+11.28%",
+	"3Month": "+8.17%",
+	"1Month": "+4.97%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29259"
+	},
+	"code": 600325,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  2020  Retirement  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "7.53%",
+	"1Year": "+21.32%",
+	"YTD": "+4.82%",
+	"6Month": "+10.46%",
+	"3Month": "+7.67%",
+	"1Month": "+4.82%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2925a"
+	},
+	"code": 600478,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSHKP  (Employer)",
+	"name": "Fidelity  Stable  Growth  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "7.02%",
+	"1Year": "+20.64%",
+	"YTD": "+4.05%",
+	"6Month": "+9.88%",
+	"3Month": "+6.98%",
+	"1Month": "+4.05%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2925b"
+	},
+	"code": 600035,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAIA  (Prime)",
+	"name": "Fidelity  Stable  Growth  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "7.19%",
+	"1Year": "+19.80%",
+	"YTD": "+3.97%",
+	"6Month": "+9.51%",
+	"3Month": "+6.81%",
+	"1Month": "+3.97%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2925c"
+	},
+	"code": 600336,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  Fidelity  Stable  Growth  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "7.03%",
+	"1Year": "+19.46%",
+	"YTD": "+3.97%",
+	"6Month": "+9.34%",
+	"3Month": "+6.72%",
+	"1Month": "+3.97%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2925d"
+	},
+	"code": 600454,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  Stable  Growth  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "7.03%",
+	"1Year": "+19.79%",
+	"YTD": "+4.32%",
+	"6Month": "+9.16%",
+	"3Month": "+6.75%",
+	"1Month": "+4.32%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2925e"
+	},
+	"code": 600507,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Manulife  Stable  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "6.86%",
+	"1Year": "+18.92%",
+	"YTD": "+4.15%",
+	"6Month": "+9.05%",
+	"3Month": "+6.53%",
+	"1Month": "+4.15%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2925f"
+	},
+	"code": 600362,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nMassMutual  (MASS)",
+	"name": "Asian  Balanced  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "8.46%",
+	"1Year": "+20.66%",
+	"YTD": "+2.85%",
+	"6Month": "+9.00%",
+	"3Month": "+5.98%",
+	"1Month": "+2.85%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29260"
+	},
+	"code": 600065,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAMTD  (MPF)",
+	"name": "AMTD  Invesco  Target  2028  Retirement  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "6.83%",
+	"1Year": "+20.22%",
+	"YTD": "+3.63%",
+	"6Month": "+8.81%",
+	"3Month": "+6.36%",
+	"1Month": "+3.63%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29261"
+	},
+	"code": 600600,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Industry)",
+	"name": "BCT  (Industry)  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.10%",
+	"6Month": "+8.67%",
+	"3Month": "+5.30%",
+	"1Month": "+3.10%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29262"
+	},
+	"code": 600662,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  Core  Accumulation  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.24%",
+	"6Month": "+8.49%",
+	"3Month": "+5.57%",
+	"1Month": "+3.24%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29263"
+	},
+	"code": 600299,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Basic)",
+	"name": "Sun  Life  MPF  Basic  Scheme  Stable  Growth  Portfolio",
+	"RiskLevel": 41,
+	"RiskIndicator": "6.25%",
+	"1Year": "+18.18%",
+	"YTD": "+4.09%",
+	"6Month": "+8.40%",
+	"3Month": "+6.42%",
+	"1Month": "+4.09%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29264"
+	},
+	"code": 600664,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPRHK  (Simple)",
+	"name": "Principal  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.23%",
+	"6Month": "+8.34%",
+	"3Month": "+5.58%",
+	"1Month": "+3.23%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29265"
+	},
+	"code": 600656,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+3.01%",
+	"6Month": "+8.12%",
+	"3Month": "+5.27%",
+	"1Month": "+3.01%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29266"
+	},
+	"code": 600634,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSHKP  (Employer)",
+	"name": "Schroder  MPF  Core  Accumulation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+2.94%",
+	"6Month": "+7.84%",
+	"3Month": "+5.33%",
+	"1Month": "+2.94%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29267"
+	},
+	"code": 600649,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Core  Accumulation  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+2.88%",
+	"6Month": "+7.68%",
+	"3Month": "+5.32%",
+	"1Month": "+2.88%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29268"
+	},
+	"code": 600209,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nFidelity  (Master)",
+	"name": "Capital  Stable  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "5.27%",
+	"1Year": "+14.32%",
+	"YTD": "+2.68%",
+	"6Month": "+6.43%",
+	"3Month": "+4.77%",
+	"1Month": "+2.68%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29269"
+	},
+	"code": 600033,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAIA  (Prime)",
+	"name": "Fidelity  Capital  Stable  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "5.20%",
+	"1Year": "+13.88%",
+	"YTD": "+2.64%",
+	"6Month": "+6.22%",
+	"3Month": "+4.68%",
+	"1Month": "+2.64%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2926a"
+	},
+	"code": 600069,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAMTD  (MPF)",
+	"name": "AMTD  Allianz  Choice  Capital  Stable  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "5.06%",
+	"1Year": "+14.21%",
+	"YTD": "+2.95%",
+	"6Month": "+6.12%",
+	"3Month": "+4.68%",
+	"1Month": "+2.95%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2926b"
+	},
+	"code": 600047,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAIA  (Prime)",
+	"name": "Allianz  Capital  Stable  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "5.10%",
+	"1Year": "+13.45%",
+	"YTD": "+2.89%",
+	"6Month": "+5.78%",
+	"3Month": "+4.48%",
+	"1Month": "+2.89%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2926c"
+	},
+	"code": 600108,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Industry)",
+	"name": "BCT  (Industry)  E30  Mixed  Asset  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.68%",
+	"1Year": "+13.81%",
+	"YTD": "+2.39%",
+	"6Month": "+5.56%",
+	"3Month": "+4.26%",
+	"1Month": "+2.39%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2926d"
+	},
+	"code": 600490,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "HSBC  MPF  \"A\" ",
+	"RiskLevel": 82,
+	"RiskIndicator": "5.07%",
+	"1Year": "+13.28%",
+	"YTD": "+2.54%",
+	"6Month": "+5.41%",
+	"3Month": "+4.42%",
+	"1Month": "+2.54%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2926e"
+	},
+	"code": 600580,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nPRHK  (Simple)",
+	"name": "Principal  Stable  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "5.71%",
+	"1Year": "+13.37%",
+	"YTD": "+2.28%",
+	"6Month": "+4.98%",
+	"3Month": "+3.61%",
+	"1Month": "+2.28%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea2926f"
+	},
+	"code": 600610,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  MPF  Age  65  Plus  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.95%",
+	"6Month": "+3.11%",
+	"3Month": "+1.92%",
+	"1Month": "+0.95%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29270"
+	},
+	"code": 600239,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nHang  Seng  (SuperTrust  Plus)",
+	"name": "Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "3.30%",
+	"1Year": "+5.80%",
+	"YTD": "+0.60%",
+	"6Month": "+2.73%",
+	"3Month": "+1.30%",
+	"1Month": "+0.60%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29271"
+	},
+	"code": 600070,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nAMTD  (MPF)",
+	"name": "AMTD  Allianz  Choice  Dynamic  Allocation  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.22%",
+	"1Year": "+6.59%",
+	"YTD": "+1.00%",
+	"6Month": "+2.59%",
+	"3Month": "+1.85%",
+	"1Month": "+1.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29272"
+	},
+	"code": 600106,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nBCT  (Industry)",
+	"name": "BCT  (Industry)  Absolute  Return  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.20%",
+	"1Year": "+6.35%",
+	"YTD": "+1.00%",
+	"6Month": "+2.52%",
+	"3Month": "+1.78%",
+	"1Month": "+1.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29273"
+	},
+	"code": 600623,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nChina  Life  (Master)",
+	"name": "China  Life  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.44%",
+	"6Month": "+2.38%",
+	"3Month": "+1.10%",
+	"1Month": "+0.44%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29274"
+	},
+	"code": 600655,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  Age  65  Plus  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.36%",
+	"6Month": "+2.19%",
+	"3Month": "+1.06%",
+	"1Month": "+0.36%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29275"
+	},
+	"code": 600635,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Manulife  MPF  Age  65  Plus  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.34%",
+	"6Month": "+2.02%",
+	"3Month": "+0.99%",
+	"1Month": "+0.34%"
+},
+{
+	"_id": {
+		"$oid": "5aa3acb5577961727ea29276"
+	},
+	"code": 600647,
+	"__v": 0,
+	"category": "Mixed Assets",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Age  65  Plus  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "+0.29%",
+	"6Month": "+1.88%",
+	"3Month": "+0.98%",
+	"1Month": "+0.29%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea29277"
+	},
+	"code": 600349,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  Stable  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.61%",
+	"1Year": "+11.90%",
+	"YTD": "+2.17%",
+	"6Month": "+5.12%",
+	"3Month": "+3.64%",
+	"1Month": "+2.17%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea29278"
+	},
+	"code": 600370,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nMassMutual  (MASS)",
+	"name": "Guaranteed  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.61%",
+	"1Year": "+11.83%",
+	"YTD": "+2.76%",
+	"6Month": "+5.03%",
+	"3Month": "+4.11%",
+	"1Month": "+2.76%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea29279"
+	},
+	"code": 600101,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nBCOM  (Joyful)",
+	"name": "BCOM  Guaranteed  (CF)  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.60%",
+	"1Year": "+9.21%",
+	"YTD": "+2.39%",
+	"6Month": "+4.33%",
+	"3Month": "+3.34%",
+	"1Month": "+2.39%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea2927a"
+	},
+	"code": 600200,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nChina  Life  (Master)",
+	"name": "China  Life  Guaranteed  Return  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.50%",
+	"1Year": "+2.93%",
+	"YTD": "+2.30%",
+	"6Month": "+2.79%",
+	"3Month": "+1.47%",
+	"1Month": "+2.30%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea2927b"
+	},
+	"code": 600461,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Capital  Guaranteed  Portfolio ",
+	"RiskLevel": 61,
+	"RiskIndicator": "2.91%",
+	"1Year": "+6.15%",
+	"YTD": "+0.91%",
+	"6Month": "+2.66%",
+	"3Month": "+1.78%",
+	"1Month": "+0.91%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea2927c"
+	},
+	"code": 600462,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Capital  Guaranteed  Portfolio ",
+	"RiskLevel": 61,
+	"RiskIndicator": "2.84%",
+	"1Year": "+5.90%",
+	"YTD": "+0.90%",
+	"6Month": "+2.49%",
+	"3Month": "+1.69%",
+	"1Month": "+0.90%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea2927d"
+	},
+	"code": 600295,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nSun  Life  (Basic)",
+	"name": "Sun  Life  MPF  Basic  Scheme  Capital  Guaranteed  Portfolio",
+	"RiskLevel": 82,
+	"RiskIndicator": "2.93%",
+	"1Year": "+5.63%",
+	"YTD": "+0.81%",
+	"6Month": "+2.35%",
+	"3Month": "+1.63%",
+	"1Month": "+0.81%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea2927e"
+	},
+	"code": 600302,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nSun  Life  (Comprehensive)",
+	"name": "Sun  Life  MPF  Comprehensive  Scheme  Capital  Guaranteed  Portfolio",
+	"RiskLevel": 82,
+	"RiskIndicator": "2.92%",
+	"1Year": "+5.52%",
+	"YTD": "+0.83%",
+	"6Month": "+2.29%",
+	"3Month": "+1.61%",
+	"1Month": "+0.83%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea2927f"
+	},
+	"code": 600206,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nChina  Life  (Master)",
+	"name": "China  Life  Retire-Easy  Guarantee  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "+2.95%",
+	"YTD": "+0.19%",
+	"6Month": "+1.41%",
+	"3Month": "+0.66%",
+	"1Month": "+0.19%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea29280"
+	},
+	"code": 600319,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "Guaranteed  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "2.51%",
+	"1Year": "+3.34%",
+	"YTD": "+0.21%",
+	"6Month": "+0.40%",
+	"3Month": "+0.15%",
+	"1Month": "+0.21%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea29281"
+	},
+	"code": 600157,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nBEA  (Master)",
+	"name": "BEA  (MPF)  Long  Term  Guaranteed  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "2.48%",
+	"1Year": "+3.30%",
+	"YTD": "+0.20%",
+	"6Month": "+0.38%",
+	"3Month": "+0.14%",
+	"1Month": "+0.20%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea29282"
+	},
+	"code": 600420,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  Long  Term  Guaranteed  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "2.57%",
+	"1Year": "+3.27%",
+	"YTD": "+0.20%",
+	"6Month": "+0.37%",
+	"3Month": "+0.14%",
+	"1Month": "+0.20%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea29283"
+	},
+	"code": 600397,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nPrincipal  (600)",
+	"name": "Principal  Long  Term  Guaranteed  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "2.57%",
+	"1Year": "+3.25%",
+	"YTD": "+0.19%",
+	"6Month": "+0.37%",
+	"3Month": "+0.14%",
+	"1Month": "+0.19%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea29284"
+	},
+	"code": 600398,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nPrincipal  (600)",
+	"name": "Principal  Long  Term  Guaranteed  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "2.57%",
+	"1Year": "+2.74%",
+	"YTD": "+0.15%",
+	"6Month": "+0.12%",
+	"3Month": "+0.01%",
+	"1Month": "+0.15%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea29285"
+	},
+	"code": 600421,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  Long  Term  Guaranteed  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "2.57%",
+	"1Year": "+2.75%",
+	"YTD": "+0.15%",
+	"6Month": "+0.12%",
+	"3Month": "+0.01%",
+	"1Month": "+0.15%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea29286"
+	},
+	"code": 600402,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  Capital  Guaranteed  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.02%",
+	"1Year": "+0.16%",
+	"YTD": "+0.01%",
+	"6Month": "+0.09%",
+	"3Month": "+0.05%",
+	"1Month": "+0.01%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea29287"
+	},
+	"code": 600403,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  Capital  Guaranteed  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.01%",
+	"1Year": "+0.04%",
+	"YTD": "0.00%",
+	"6Month": "+0.02%",
+	"3Month": "+0.01%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea29288"
+	},
+	"code": 600242,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nHang  Seng  (SuperTrust  Plus)",
+	"name": "Guaranteed  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "1.62%",
+	"1Year": "+0.98%",
+	"YTD": "+0.10%",
+	"6Month": "-0.29%",
+	"3Month": "0.00%",
+	"1Month": "+0.10%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea29289"
+	},
+	"code": 600273,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nHSBC  (SuperTrust  Plus)",
+	"name": "Guaranteed  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "1.62%",
+	"1Year": "+0.98%",
+	"YTD": "+0.10%",
+	"6Month": "-0.29%",
+	"3Month": "0.00%",
+	"1Month": "+0.10%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea2928a"
+	},
+	"code": 600483,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nSHKP  (Employer)",
+	"name": "Manulife  Career  Average  Guaranteed  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "2.45%",
+	"1Year": "+1.59%",
+	"YTD": "-0.80%",
+	"6Month": "-1.12%",
+	"3Month": "-1.00%",
+	"1Month": "-0.80%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea2928b"
+	},
+	"code": 600504,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Manulife  Career  Average  Guaranteed  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "2.45%",
+	"1Year": "+1.14%",
+	"YTD": "-0.84%",
+	"6Month": "-1.35%",
+	"3Month": "-1.12%",
+	"1Month": "-0.84%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea2928c"
+	},
+	"code": 600512,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nManulife  (Basic)",
+	"name": "Manulife  Career  Average  Guaranteed  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "2.45%",
+	"1Year": "+1.08%",
+	"YTD": "-0.85%",
+	"6Month": "-1.41%",
+	"3Month": "-1.16%",
+	"1Month": "-0.85%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea2928d"
+	},
+	"code": 600592,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nPRHK  (Smart)",
+	"name": "Principal  Guaranteed  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "N/A",
+	"1Year": "N/A",
+	"YTD": "N/A",
+	"6Month": "N/A",
+	"3Month": "N/A",
+	"1Month": "N/A"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea2928e"
+	},
+	"code": 600342,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  Interest  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.00%",
+	"1Year": "N/A",
+	"YTD": "N/A",
+	"6Month": "N/A",
+	"3Month": "N/A",
+	"1Month": "N/A"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad2f577961727ea2928f"
+	},
+	"code": 600040,
+	"__v": 0,
+	"category": "Guaranteed",
+	"provider": "\nAIA  (Prime)",
+	"name": "Guaranteed  Portfolio",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.00%",
+	"1Year": "N/A",
+	"YTD": "N/A",
+	"6Month": "N/A",
+	"3Month": "N/A",
+	"1Month": "N/A"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea29290"
+	},
+	"code": 600558,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  RMB  Bond  Fund  ",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.19%",
+	"1Year": "+8.64%",
+	"YTD": "+2.23%",
+	"6Month": "+4.45%",
+	"3Month": "+3.16%",
+	"1Month": "+2.23%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea29291"
+	},
+	"code": 600544,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nBCT  (Industry)",
+	"name": "BCT  (Industry)  RMB  Bond  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.55%",
+	"1Year": "+7.72%",
+	"YTD": "+2.00%",
+	"6Month": "+4.43%",
+	"3Month": "+3.24%",
+	"1Month": "+2.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea29292"
+	},
+	"code": 600547,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "RMB  Bond  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.75%",
+	"1Year": "+7.75%",
+	"YTD": "+2.03%",
+	"6Month": "+4.42%",
+	"3Month": "+3.28%",
+	"1Month": "+2.03%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea29293"
+	},
+	"code": 600546,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "RMB  Bond  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.75%",
+	"1Year": "+7.63%",
+	"YTD": "+2.02%",
+	"6Month": "+4.36%",
+	"3Month": "+3.25%",
+	"1Month": "+2.02%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea29294"
+	},
+	"code": 600596,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nFidelity  (Master)",
+	"name": "RMB  Bond  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "N/A",
+	"1Year": "+7.75%",
+	"YTD": "+1.92%",
+	"6Month": "+4.28%",
+	"3Month": "+3.03%",
+	"1Month": "+1.92%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea29295"
+	},
+	"code": 600545,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  RMB  Bond  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.53%",
+	"1Year": "+7.53%",
+	"YTD": "+1.95%",
+	"6Month": "+4.27%",
+	"3Month": "+3.18%",
+	"1Month": "+1.95%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea29296"
+	},
+	"code": 600470,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  RMB  and  HKD  Fixed  Income  Portfolio ",
+	"RiskLevel": 82,
+	"RiskIndicator": "2.53%",
+	"1Year": "+7.15%",
+	"YTD": "+2.10%",
+	"6Month": "+4.12%",
+	"3Month": "+3.18%",
+	"1Month": "+2.10%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea29297"
+	},
+	"code": 600502,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Schroder  RMB  and  HKD  Fixed  Income  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "2.52%",
+	"1Year": "+7.20%",
+	"YTD": "+2.09%",
+	"6Month": "+4.04%",
+	"3Month": "+3.21%",
+	"1Month": "+2.09%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea29298"
+	},
+	"code": 600469,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  RMB  and  HKD  Fixed  Income  Portfolio ",
+	"RiskLevel": 82,
+	"RiskIndicator": "2.51%",
+	"1Year": "+7.29%",
+	"YTD": "+2.07%",
+	"6Month": "+4.16%",
+	"3Month": "+3.25%",
+	"1Month": "+2.07%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea29299"
+	},
+	"code": 600036,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nAIA  (Prime)",
+	"name": "Global  Bond  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.16%",
+	"1Year": "+8.44%",
+	"YTD": "+1.11%",
+	"6Month": "+2.25%",
+	"3Month": "+2.31%",
+	"1Month": "+1.11%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea2929a"
+	},
+	"code": 600165,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nBEA  (Value)",
+	"name": "BEA  Global  Bond  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.42%",
+	"1Year": "+7.18%",
+	"YTD": "+1.37%",
+	"6Month": "+2.25%",
+	"3Month": "+2.67%",
+	"1Month": "+1.37%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea2929b"
+	},
+	"code": 600027,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nAIA  (Prime)",
+	"name": "Asian  Bond  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.69%",
+	"1Year": "+7.08%",
+	"YTD": "+0.96%",
+	"6Month": "+2.24%",
+	"3Month": "+3.12%",
+	"1Month": "+0.96%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea2929c"
+	},
+	"code": 600151,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nBEA  (Master)",
+	"name": "BEA  (MPF)  Global  Bond  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.05%",
+	"1Year": "+6.43%",
+	"YTD": "+1.15%",
+	"6Month": "+1.79%",
+	"3Month": "+2.24%",
+	"1Month": "+1.15%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea2929d"
+	},
+	"code": 600347,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  Pacific  Asia  Bond  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.58%",
+	"1Year": "+6.53%",
+	"YTD": "+0.63%",
+	"6Month": "+1.59%",
+	"3Month": "+2.15%",
+	"1Month": "+0.63%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea2929e"
+	},
+	"code": 600560,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Global  Fixed  Income  Portfolio ",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.13%",
+	"1Year": "+6.77%",
+	"YTD": "+1.14%",
+	"6Month": "+1.56%",
+	"3Month": "+2.30%",
+	"1Month": "+1.14%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea2929f"
+	},
+	"code": 600221,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nFidelity  (Master)",
+	"name": "World  Bond  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.42%",
+	"1Year": "+6.51%",
+	"YTD": "+0.53%",
+	"6Month": "+1.54%",
+	"3Month": "+1.64%",
+	"1Month": "+0.53%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292a0"
+	},
+	"code": 600584,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nPRHK  (Smart)",
+	"name": "Principal  Dynamic  Asian  Bond  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "4.63%",
+	"1Year": "+5.98%",
+	"YTD": "+0.71%",
+	"6Month": "+1.53%",
+	"3Month": "+2.58%",
+	"1Month": "+0.71%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292a1"
+	},
+	"code": 600559,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Global  Fixed  Income  Portfolio ",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.14%",
+	"1Year": "+6.68%",
+	"YTD": "+1.11%",
+	"6Month": "+1.51%",
+	"3Month": "+2.34%",
+	"1Month": "+1.11%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292a2"
+	},
+	"code": 600285,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nHSBC  (ValueChoice)",
+	"name": "Global  Bond  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.20%",
+	"1Year": "+7.16%",
+	"YTD": "+0.66%",
+	"6Month": "+1.42%",
+	"3Month": "+1.68%",
+	"1Month": "+0.66%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292a3"
+	},
+	"code": 600240,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nHang  Seng  (SuperTrust  Plus)",
+	"name": "Global  Bond  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.20%",
+	"1Year": "+7.16%",
+	"YTD": "+0.66%",
+	"6Month": "+1.42%",
+	"3Month": "+1.68%",
+	"1Month": "+0.66%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292a4"
+	},
+	"code": 600254,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nHang  Seng  (ValueChoice)",
+	"name": "Global  Bond  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.20%",
+	"1Year": "+7.16%",
+	"YTD": "+0.66%",
+	"6Month": "+1.42%",
+	"3Month": "+1.68%",
+	"1Month": "+0.66%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292a5"
+	},
+	"code": 600271,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nHSBC  (SuperTrust  Plus)",
+	"name": "Global  Bond  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "4.20%",
+	"1Year": "+7.16%",
+	"YTD": "+0.66%",
+	"6Month": "+1.42%",
+	"3Month": "+1.68%",
+	"1Month": "+0.66%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292a6"
+	},
+	"code": 600175,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"name": "BOC-Prudential  Bond  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "2.76%",
+	"1Year": "+4.50%",
+	"YTD": "+0.73%",
+	"6Month": "+1.09%",
+	"3Month": "+1.56%",
+	"1Month": "+0.73%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292a7"
+	},
+	"code": 600557,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nManulife  (Basic)",
+	"name": "Manulife  Bond  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.37%",
+	"1Year": "+6.09%",
+	"YTD": "+1.53%",
+	"6Month": "+1.09%",
+	"3Month": "+2.25%",
+	"1Month": "+1.53%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292a8"
+	},
+	"code": 600556,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Manulife  Bond  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.32%",
+	"1Year": "+5.88%",
+	"YTD": "+1.51%",
+	"6Month": "+1.01%",
+	"3Month": "+2.19%",
+	"1Month": "+1.51%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292a9"
+	},
+	"code": 600189,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nBOCI-Prudential  (My  Choice)",
+	"name": "My  Choice  Global  Bond  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "3.24%",
+	"1Year": "+4.61%",
+	"YTD": "+1.34%",
+	"6Month": "+0.98%",
+	"3Month": "+1.87%",
+	"1Month": "+1.34%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292aa"
+	},
+	"code": 600414,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  International  Bond  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "4.18%",
+	"1Year": "+7.10%",
+	"YTD": "+0.56%",
+	"6Month": "+0.97%",
+	"3Month": "+1.20%",
+	"1Month": "+0.56%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292ab"
+	},
+	"code": 600415,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  International  Bond  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "4.18%",
+	"1Year": "+7.11%",
+	"YTD": "+0.56%",
+	"6Month": "+0.97%",
+	"3Month": "+1.21%",
+	"1Month": "+0.56%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292ac"
+	},
+	"code": 600343,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  International  Bond  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.54%",
+	"1Year": "+5.28%",
+	"YTD": "+0.86%",
+	"6Month": "+0.89%",
+	"3Month": "+1.58%",
+	"1Month": "+0.86%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292ad"
+	},
+	"code": 600316,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "Global  Bond  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "3.44%",
+	"1Year": "+5.84%",
+	"YTD": "+0.65%",
+	"6Month": "+0.88%",
+	"3Month": "+1.33%",
+	"1Month": "+0.65%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292ae"
+	},
+	"code": 600099,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nBCOM  (Joyful)",
+	"name": "BCOM  Global  Bond  (CF)  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "3.42%",
+	"1Year": "+5.82%",
+	"YTD": "+0.67%",
+	"6Month": "+0.86%",
+	"3Month": "+1.35%",
+	"1Month": "+0.67%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292af"
+	},
+	"code": 600315,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "Global  Bond  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "3.44%",
+	"1Year": "+5.72%",
+	"YTD": "+0.64%",
+	"6Month": "+0.82%",
+	"3Month": "+1.30%",
+	"1Month": "+0.64%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292b0"
+	},
+	"code": 600549,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nPrincipal  (600)",
+	"name": "Principal  Asian  Bond  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "3.38%",
+	"1Year": "+4.50%",
+	"YTD": "+0.66%",
+	"6Month": "+0.79%",
+	"3Month": "+1.42%",
+	"1Month": "+0.66%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292b1"
+	},
+	"code": 600123,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  Global  Bond  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.28%",
+	"1Year": "+4.12%",
+	"YTD": "+1.29%",
+	"6Month": "+0.74%",
+	"3Month": "+1.75%",
+	"1Month": "+1.29%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292b2"
+	},
+	"code": 600365,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nMassMutual  (MASS)",
+	"name": "Global  Bond  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "2.97%",
+	"1Year": "+4.03%",
+	"YTD": "+1.30%",
+	"6Month": "+0.69%",
+	"3Month": "+1.72%",
+	"1Month": "+1.30%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292b3"
+	},
+	"code": 600111,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nBCT  (Industry)",
+	"name": "BCT  (Industry)  Global  Bond  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.30%",
+	"1Year": "+3.97%",
+	"YTD": "+1.28%",
+	"6Month": "+0.68%",
+	"3Month": "+1.73%",
+	"1Month": "+1.28%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292b4"
+	},
+	"code": 600061,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nAMTD  (MPF)",
+	"name": "AMTD  Invesco  Global  Bond  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "3.33%",
+	"1Year": "+5.44%",
+	"YTD": "+0.67%",
+	"6Month": "+0.65%",
+	"3Month": "+1.27%",
+	"1Month": "+0.67%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292b5"
+	},
+	"code": 600577,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nPRHK  (Simple)",
+	"name": "Principal  Dynamic  Global  Bond  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.30%",
+	"1Year": "+3.94%",
+	"YTD": "+1.12%",
+	"6Month": "+0.65%",
+	"3Month": "+1.69%",
+	"1Month": "+1.12%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292b6"
+	},
+	"code": 600493,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Invesco  MPF  Bond  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "3.42%",
+	"1Year": "+5.43%",
+	"YTD": "+0.61%",
+	"6Month": "+0.64%",
+	"3Month": "+1.21%",
+	"1Month": "+0.61%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292b7"
+	},
+	"code": 600588,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nPRHK  (Smart)",
+	"name": "Principal  Dynamic  Global  Bond  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "3.33%",
+	"1Year": "+3.93%",
+	"YTD": "+1.17%",
+	"6Month": "+0.63%",
+	"3Month": "+1.60%",
+	"1Month": "+1.17%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292b8"
+	},
+	"code": 600509,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Templeton  MPF  Global  Bond  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "3.27%",
+	"1Year": "+3.78%",
+	"YTD": "+1.25%",
+	"6Month": "+0.56%",
+	"3Month": "+1.65%",
+	"1Month": "+1.25%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292b9"
+	},
+	"code": 600523,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  Global  Bond  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.01%",
+	"1Year": "+3.91%",
+	"YTD": "+0.72%",
+	"6Month": "+0.42%",
+	"3Month": "+1.06%",
+	"1Month": "+0.72%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292ba"
+	},
+	"code": 600522,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  Global  Bond  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "4.01%",
+	"1Year": "+3.70%",
+	"YTD": "+0.70%",
+	"6Month": "+0.31%",
+	"3Month": "+1.00%",
+	"1Month": "+0.70%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292bb"
+	},
+	"code": 600340,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  Hong  Kong  Bond  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "2.77%",
+	"1Year": "+2.24%",
+	"YTD": "-0.58%",
+	"6Month": "-0.92%",
+	"3Month": "-0.64%",
+	"1Month": "-0.58%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292bc"
+	},
+	"code": 600411,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  Hong  Kong  Bond  Fund ",
+	"RiskLevel": 41,
+	"RiskIndicator": "2.31%",
+	"1Year": "+1.45%",
+	"YTD": "-0.31%",
+	"6Month": "-1.17%",
+	"3Month": "-0.72%",
+	"1Month": "-0.31%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292bd"
+	},
+	"code": 600217,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nFidelity  (Master)",
+	"name": "Hong  Kong  Bond  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "2.93%",
+	"1Year": "+1.86%",
+	"YTD": "-0.84%",
+	"6Month": "-1.38%",
+	"3Month": "-1.10%",
+	"1Month": "-0.84%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292be"
+	},
+	"code": 600192,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nBOCI-Prudential  (My  Choice)",
+	"name": "My  Choice  HKD  Bond  Fund",
+	"RiskLevel": 41,
+	"RiskIndicator": "2.96%",
+	"1Year": "+1.85%",
+	"YTD": "-0.71%",
+	"6Month": "-1.46%",
+	"3Month": "-0.97%",
+	"1Month": "-0.71%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292bf"
+	},
+	"code": 600127,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  Hong  Kong  Dollar  Bond  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "2.92%",
+	"1Year": "+1.76%",
+	"YTD": "-0.71%",
+	"6Month": "-1.49%",
+	"3Month": "-0.95%",
+	"1Month": "-0.71%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292c0"
+	},
+	"code": 600521,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  Hong  Kong  Dollar  Bond  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "2.67%",
+	"1Year": "+1.34%",
+	"YTD": "-0.72%",
+	"6Month": "-1.57%",
+	"3Month": "-1.07%",
+	"1Month": "-0.72%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad4b577961727ea292c1"
+	},
+	"code": 600520,
+	"__v": 0,
+	"category": "Bond",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  Hong  Kong  Dollar  Bond  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "2.67%",
+	"1Year": "+1.14%",
+	"YTD": "-0.74%",
+	"6Month": "-1.67%",
+	"3Month": "-1.13%",
+	"1Month": "-0.74%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292c2"
+	},
+	"code": 600104,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nBCOM  (Joyful)",
+	"name": "BCOM  MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.02%",
+	"1Year": "+1.03%",
+	"YTD": "+0.10%",
+	"6Month": "+0.49%",
+	"3Month": "+0.25%",
+	"1Month": "+0.10%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292c3"
+	},
+	"code": 600149,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nBEA  (Master)",
+	"name": "BEA  (MPF)  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.04%",
+	"1Year": "+0.99%",
+	"YTD": "+0.09%",
+	"6Month": "+0.47%",
+	"3Month": "+0.24%",
+	"1Month": "+0.09%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292c4"
+	},
+	"code": 600142,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nBEA  (Industry)",
+	"name": "BEA  (Industry  Scheme)  MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.04%",
+	"1Year": "+0.99%",
+	"YTD": "+0.10%",
+	"6Month": "+0.47%",
+	"3Month": "+0.24%",
+	"1Month": "+0.10%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292c5"
+	},
+	"code": 600323,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "MPF  Conservative  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.05%",
+	"1Year": "+0.35%",
+	"YTD": "+0.05%",
+	"6Month": "+0.16%",
+	"3Month": "+0.09%",
+	"1Month": "+0.05%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292c6"
+	},
+	"code": 600171,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nBEA  (Value)",
+	"name": "BEA  MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.04%",
+	"1Year": "+0.91%",
+	"YTD": "+0.09%",
+	"6Month": "+0.44%",
+	"3Month": "+0.23%",
+	"1Month": "+0.09%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292c7"
+	},
+	"code": 600322,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nInvesco  (Strategic)",
+	"name": "MPF  Conservative  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.05%",
+	"1Year": "+0.35%",
+	"YTD": "+0.05%",
+	"6Month": "+0.16%",
+	"3Month": "+0.09%",
+	"1Month": "+0.05%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292c8"
+	},
+	"code": 600183,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"name": "BOC-Prudential  MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.06%",
+	"1Year": "+0.33%",
+	"YTD": "+0.05%",
+	"6Month": "+0.14%",
+	"3Month": "+0.09%",
+	"1Month": "+0.05%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292c9"
+	},
+	"code": 600333,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nManulife  (Global)",
+	"name": "Manulife  MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.04%",
+	"1Year": "+0.23%",
+	"YTD": "+0.04%",
+	"6Month": "+0.11%",
+	"3Month": "+0.06%",
+	"1Month": "+0.04%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292ca"
+	},
+	"code": 600231,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nHaitong  (MPF)",
+	"name": "Haitong  MPF  Conservative  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.18%",
+	"1Year": "+0.09%",
+	"YTD": "0.00%",
+	"6Month": "+0.09%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292cb"
+	},
+	"code": 600045,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nAIA  (Prime)",
+	"name": "MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.00%",
+	"1Year": "+0.11%",
+	"YTD": "+0.01%",
+	"6Month": "+0.05%",
+	"3Month": "+0.03%",
+	"1Month": "+0.01%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292cc"
+	},
+	"code": 600484,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nSHKP  (Employer)",
+	"name": "Manulife  MPF  Conservative  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.00%",
+	"1Year": "+0.04%",
+	"YTD": "+0.03%",
+	"6Month": "+0.03%",
+	"3Month": "+0.03%",
+	"1Month": "+0.03%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292cd"
+	},
+	"code": 600130,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nBCT  (Pro)",
+	"name": "BCT  (Pro)  MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.04%",
+	"1Year": "+0.05%",
+	"YTD": "0.00%",
+	"6Month": "+0.02%",
+	"3Month": "+0.01%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292ce"
+	},
+	"code": 600506,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nManulife  (Advanced)",
+	"name": "Manulife  MPF  Conservative  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.00%",
+	"1Year": "+0.01%",
+	"YTD": "0.00%",
+	"6Month": "+0.01%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292cf"
+	},
+	"code": 600519,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  Conservative  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.01%",
+	"1Year": "+0.01%",
+	"YTD": "+0.01%",
+	"6Month": "+0.01%",
+	"3Month": "+0.01%",
+	"1Month": "+0.01%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292d0"
+	},
+	"code": 600114,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nBCT  (Industry)",
+	"name": "BCT  (Industry)  MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.03%",
+	"1Year": "+0.03%",
+	"YTD": "-0.01%",
+	"6Month": "+0.01%",
+	"3Month": "0.00%",
+	"1Month": "-0.01%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292d1"
+	},
+	"code": 600219,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nFidelity  (Master)",
+	"name": "MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.00%",
+	"1Year": "+0.01%",
+	"YTD": "+0.01%",
+	"6Month": "+0.01%",
+	"3Month": "+0.01%",
+	"1Month": "+0.01%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292d2"
+	},
+	"code": 600422,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nPrincipal  (800)",
+	"name": "Principal  MPF  Conservative  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.03%",
+	"1Year": "+0.01%",
+	"YTD": "0.00%",
+	"6Month": "+0.01%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292d3"
+	},
+	"code": 600586,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nPRHK  (Smart)",
+	"name": "Principal ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.01%",
+	"1Year": "0.00%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292d4"
+	},
+	"code": 600518,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  Conservative  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.01%",
+	"1Year": "+0.01%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292d5"
+	},
+	"code": 600448,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  MPF  Conservative  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.01%",
+	"1Year": "+0.01%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292d6"
+	},
+	"code": 600449,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  MPF  Conservative  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.01%",
+	"1Year": "+0.01%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292d7"
+	},
+	"code": 600466,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Conservative  Portfolio ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.05%",
+	"1Year": "0.00%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292d8"
+	},
+	"code": 600514,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nManulife  (Basic)",
+	"name": "Manulife  MPF  Conservative  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.00%",
+	"1Year": "0.00%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292d9"
+	},
+	"code": 600465,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nSun  Life  (Master)",
+	"name": "Schroder  MPF  Conservative  Portfolio ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.00%",
+	"1Year": "0.00%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292da"
+	},
+	"code": 600575,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nPRHK  (Simple)",
+	"name": "Principal ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.05%",
+	"1Year": "0.00%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292db"
+	},
+	"code": 600450,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  MPF  Conservative  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.01%",
+	"1Year": "+0.01%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292dc"
+	},
+	"code": 600230,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nHaitong  (MPF)",
+	"name": "Haitong  MPF  Conservative  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.21%",
+	"1Year": "0.00%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292dd"
+	},
+	"code": 600245,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nHang  Seng  (SuperTrust  Plus)",
+	"name": "MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.12%",
+	"1Year": "0.00%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292de"
+	},
+	"code": 600257,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nHang  Seng  (ValueChoice)",
+	"name": "MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.12%",
+	"1Year": "0.00%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292df"
+	},
+	"code": 600063,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nAMTD  (MPF)",
+	"name": "AMTD  Invesco  MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.02%",
+	"1Year": "+0.01%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292e0"
+	},
+	"code": 600196,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nBOCI-Prudential  (My  Choice)",
+	"name": "My  Choice  MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.00%",
+	"1Year": "+0.01%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292e1"
+	},
+	"code": 600202,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nChina  Life  (Master)",
+	"name": "China  Life  MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.01%",
+	"1Year": "+0.01%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292e2"
+	},
+	"code": 600306,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nSun  Life  (Comprehensive)",
+	"name": "Sun  Life  MPF  Comprehensive  Scheme  MPF  Conservative  Portfolio",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.00%",
+	"1Year": "0.00%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292e3"
+	},
+	"code": 600373,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nMassMutual  (MASS)",
+	"name": "MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.00%",
+	"1Year": "+0.01%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292e4"
+	},
+	"code": 600399,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nPrincipal  (600)",
+	"name": "Principal  MPF  Conservative  Fund ",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.03%",
+	"1Year": "+0.01%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292e5"
+	},
+	"code": 600276,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nHSBC  (SuperTrust  Plus)",
+	"name": "MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.12%",
+	"1Year": "0.00%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292e6"
+	},
+	"code": 600288,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nHSBC  (ValueChoice)",
+	"name": "MPF  Conservative  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.12%",
+	"1Year": "0.00%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad6d577961727ea292e7"
+	},
+	"code": 600298,
+	"__v": 0,
+	"category": "MPF Conservative",
+	"provider": "\nSun  Life  (Basic)",
+	"name": "Sun  Life  MPF  Basic  Scheme  MPF  Conservative  Portfolio",
+	"RiskLevel": 82,
+	"RiskIndicator": "0.06%",
+	"1Year": "0.00%",
+	"YTD": "0.00%",
+	"6Month": "0.00%",
+	"3Month": "0.00%",
+	"1Month": "0.00%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad91577961727ea292e8"
+	},
+	"code": 600548,
+	"__v": 0,
+	"category": "Money Market",
+	"provider": "\nBOCI-Prudential  (Easy)",
+	"name": "BOC-Prudential  MPF  RMB  \u0026  HKD  Money  Market  Fund",
+	"YTD": "+2.52%",
+	"RiskLevel": 61,
+	"RiskIndicator": "2.75%",
+	"1Year": "+9.20%",
+	"6Month": "+5.77%",
+	"1Month": "+2.52%",
+	"3Month": "+4.27%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad91577961727ea292e9"
+	},
+	"code": 600570,
+	"__v": 0,
+	"category": "Money Market",
+	"provider": "\nBOCI-Prudential  (My  Choice)",
+	"name": "My  Choice  RMB  and  HKD  Money  Market  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "N/A",
+	"1Year": "+8.20%",
+	"YTD": "+2.33%",
+	"6Month": "+5.27%",
+	"3Month": "+4.02%",
+	"1Month": "+2.33%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad91577961727ea292ea"
+	},
+	"code": 600159,
+	"__v": 0,
+	"category": "Money Market",
+	"provider": "\nBEA  (Master)",
+	"name": "BEA  (MPF)  RMB  \u0026  HKD  Money  Market  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "2.57%",
+	"1Year": "+7.60%",
+	"YTD": "+2.35%",
+	"6Month": "+5.03%",
+	"3Month": "+3.80%",
+	"1Month": "+2.35%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad91577961727ea292eb"
+	},
+	"code": 600143,
+	"__v": 0,
+	"category": "Money Market",
+	"provider": "\nBEA  (Industry)",
+	"name": "BEA  (Industry  Scheme)  RMB  \u0026  HKD  Money  Market  Fund",
+	"RiskLevel": 82,
+	"RiskIndicator": "2.55%",
+	"1Year": "+7.42%",
+	"YTD": "+2.32%",
+	"6Month": "+4.91%",
+	"3Month": "+3.71%",
+	"1Month": "+2.32%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad91577961727ea292ec"
+	},
+	"code": 600551,
+	"__v": 0,
+	"category": "Money Market",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  RMB  Money  Market  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "2.61%",
+	"1Year": "+7.25%",
+	"YTD": "+2.26%",
+	"6Month": "+4.84%",
+	"3Month": "+3.78%",
+	"1Month": "+2.26%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad91577961727ea292ed"
+	},
+	"code": 600553,
+	"__v": 0,
+	"category": "Money Market",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  RMB  Money  Market  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "2.61%",
+	"1Year": "+7.23%",
+	"YTD": "+2.25%",
+	"6Month": "+4.83%",
+	"3Month": "+3.77%",
+	"1Month": "+2.25%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad91577961727ea292ee"
+	},
+	"code": 600552,
+	"__v": 0,
+	"category": "Money Market",
+	"provider": "\nAllianz  Global  Investors",
+	"name": "Allianz  RMB  Money  Market  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "2.61%",
+	"1Year": "+7.24%",
+	"YTD": "+2.26%",
+	"6Month": "+4.83%",
+	"3Month": "+3.77%",
+	"1Month": "+2.26%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad91577961727ea292ef"
+	},
+	"code": 600535,
+	"__v": 0,
+	"category": "Money Market",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  RMB  and  HKD  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "2.64%",
+	"1Year": "+7.86%",
+	"YTD": "+2.23%",
+	"6Month": "+4.83%",
+	"3Month": "+3.60%",
+	"1Month": "+2.23%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad91577961727ea292f0"
+	},
+	"code": 600534,
+	"__v": 0,
+	"category": "Money Market",
+	"provider": "\nSun  Life  (Rainbow)",
+	"name": "Sun  Life  MPF  RMB  and  HKD  Fund ",
+	"RiskLevel": 61,
+	"RiskIndicator": "2.64%",
+	"1Year": "+7.81%",
+	"YTD": "+2.22%",
+	"6Month": "+4.80%",
+	"3Month": "+3.59%",
+	"1Month": "+2.22%"
+},
+{
+	"_id": {
+		"$oid": "5aa3ad91577961727ea292f1"
+	},
+	"code": 600590,
+	"__v": 0,
+	"category": "Money Market",
+	"provider": "\nPRHK  (Smart)",
+	"name": "Principal  Cash  Fund",
+	"RiskLevel": 61,
+	"RiskIndicator": "0.28%",
+	"1Year": "+0.54%",
+	"YTD": "+0.18%",
+	"6Month": "+0.18%",
+	"3Month": "+0.09%",
+	"1Month": "+0.18%"
+}]
+

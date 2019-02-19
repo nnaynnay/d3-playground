@@ -1,0 +1,22 @@
+{
+  "name": "d3-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnaynnay/d3-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnaynnay/d3-playground/issues"
+  },
+  "homepage": "https://github.com/nnaynnay/d3-playground#readme",
+  "dependencies": {
+    "d3": "^5.7.0"
+  }
+}
