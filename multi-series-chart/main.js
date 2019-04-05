@@ -1,7 +1,9 @@
 const svg = d3.select('svg');
-const width = svg.attr('width');
-const height = svg.attr('height');
-const g = svg.append("g").attr("transform", "translate(0, 0)");
+const margin = { top: 100, left: 20, right: 0, bottom: 0 };
+const width = +svg.attr('width') - margin.left - margin.right;
+const height = +svg.attr('height') - margin.top - margin.bottom;
+
+const g = svg.append("g").attr("transform", `translate(${margin.left}, ${margin.top})`);
 
 const x = d3.scaleTime().range([0, width]);
 const y = d3.scaleLinear().range([height, 0]);
@@ -32,9 +34,26 @@ d3.json('http://localhost:3000/pricing').then((data) => {
         d3.max(sources, function (d) { return d.values[1]; }),
     ]);
 
+    var yAxis = d3.axisRight(y).tickSize(width);
+    function customYAxis(g) {
+        g.call(yAxis);
+        g.select(".domain").remove();
+        g.selectAll(".tick line").attr("stroke", "#efefef");
+        g.selectAll(".tick text").attr("x", 4).attr("dy", -4);
+    }
+
+    var xAxis = d3.axisBottom(x);
+    function customXAxis(g) {
+        g.call(xAxis);
+        g.select(".domain").remove();
+    }
+
     g.append("g")
         .attr("class", "axis axis--y")
-        .call(d3.axisLeft(y));
+        .call(customYAxis);
+    g.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(customXAxis);
 
     var source = g.selectAll(".area")
         .data([sources])
@@ -81,30 +100,29 @@ d3.json('http://localhost:3000/pricing').then((data) => {
         .attr("dy", "2em");
 
     const mousemove = () => {
-        var x0 = x.invert(d3.mouse(d3.event.currentTarget)[0]),
+        var x0 = x.invert(d3.mouse(d3.event.currentTarget)[0] - margin.left),
             i = bisectId(sources, x0, 1),
             d0 = sources[i - 1],
             d1 = sources[i],
             d = x0 - d0.id > d1.id - x0 ? d1 : d0;
-        var depl = d.values[1];
-        var depl2 = d.values[0];
-        focus.attr("transform", "translate(" + x(d.id) + "," + y(d.values[1]) + ")");
-        focus2.attr("transform", "translate(" + x(d.id) + "," + y(d.values[0]) + ")");
 
-        // tooltipBox.select('rect');
-        // tooltipBox.attr("transform", "translate(" + (x(d.id) - tooltipBox.node().getBBox().width / 2) + "," + 20 + ")");
+        focus.attr("transform", "translate(" + (x(d.id) + margin.left) + "," + (y(d.values[1]) + margin.top) + ")");
+        focus2.attr("transform", "translate(" + (x(d.id) + margin.left) + "," + (y(d.values[0]) + margin.top) + ")");
+
         focus.select("text").text(d.values[1]);
         focus2.select("text").text(d.values[0]);
-        tooltipLine.attr('x1', x(d.id));
-        tooltipLine.attr('x2', x(d.id));
-        tooltipLine.attr('y1', y(d.values[0]));
-        tooltipLine.attr('y2', height);
+        tooltipLine.attr('x1', x(d.id) + margin.left);
+        tooltipLine.attr('x2', x(d.id) + margin.left);
+        tooltipLine.attr('y1', margin.top);
+        tooltipLine.attr('y2', height + margin.top);
 
         tooltipBox.select('text').text([d.values[0], d.values[1]].join(' ~ '));
     };
 
     svg.append("rect")
         .attr("class", "overlay")
+        .attr("x", margin.left)
+        .attr("y", margin.top)
         .attr("width", width)
         .attr("height", height)
         .on("mouseover", function () {

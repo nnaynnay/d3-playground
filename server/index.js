@@ -1,8 +1,11 @@
+require('dotenv').config()
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 const mongoose = require('mongoose');
 const rp = require('request-promise');
+const QUANDL_API_KEY = process.env.QUANDL_API_KEY;
+
 
 const DB_CONN = 'mongodb://127.0.0.1:27017/gov';
 mongoose.connect(DB_CONN, { keepAlive: true, useNewUrlParser: true });
@@ -29,7 +32,7 @@ app.get('/buildings', (req, res) => {
 
 app.get('/pricing', (req, res) => {
     const options = {
-        uri: 'https://www.quandl.com/api/v3/datasets/EOD/MSFT?start_date=2017-10-10&end_date=2018-10-12&api_key=cwakFpVWRtFhLQVEm7M1',
+        uri: `https://www.quandl.com/api/v3/datasets/EOD/MSFT?start_date=2017-10-10&end_date=2018-10-12&api_key=${QUANDL_API_KEY}`,
         json: true
     };
     rp(options).then(results => {
@@ -41,7 +44,26 @@ app.get('/pricing', (req, res) => {
         // const closeColIdx = findColIdx('Close');
         const highColIdx = findColIdx('High');
         const lowColIdx = findColIdx('Low');
-        // res.send(results.dataset.data.map(d => d[closeColIdx]));
+        // res.send(results.dataset.data.map(d => [d[closeColIdx]]));
+        res.send(results.dataset.data.map(d => [d[lowColIdx], d[highColIdx]]));
+    });
+});
+
+app.get('/pricing/relative', (req, res) => {
+    const options = {
+        uri: `https://www.quandl.com/api/v3/datasets/EOD/MSFT?start_date=2017-10-10&end_date=2018-10-12&transform=rdiff&api_key=${QUANDL_API_KEY}`,
+        json: true
+    };
+    rp(options).then(results => {
+        if (!results.dataset || !results.dataset.data) {
+            console.log('No data');
+            res.end();
+        }
+        const findColIdx = (key) => { return results.dataset.column_names.findIndex(n => n === key); }
+        // const closeColIdx = findColIdx('Close');
+        const highColIdx = findColIdx('High');
+        const lowColIdx = findColIdx('Low');
+        // res.send(results.dataset.data.map(d => [d[closeColIdx]]));
         res.send(results.dataset.data.map(d => [d[lowColIdx], d[highColIdx]]));
     });
 });

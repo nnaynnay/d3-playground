@@ -1,3 +1,8 @@
+svg {
+    margin: 0 auto;
+    display: block;
+}
+
 .overlay {
     fill: none;
     pointer-events: all;
@@ -16,7 +21,7 @@
 }
 
 .tooltip-line {
-    stroke: #efefef;
+    stroke: #003459;
 }
 
 .tooltip-box {
