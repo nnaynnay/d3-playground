@@ -2,13 +2,13 @@ require('dotenv').config()
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
-const mongoose = require('mongoose');
+// const mongoose = require('mongoose');
 const rp = require('request-promise');
 const QUANDL_API_KEY = process.env.QUANDL_API_KEY;
 
 
-const DB_CONN = 'mongodb://127.0.0.1:27017/gov';
-mongoose.connect(DB_CONN, { keepAlive: true, useNewUrlParser: true });
+// const DB_CONN = 'mongodb://127.0.0.1:27017/gov';
+// mongoose.connect(DB_CONN, { keepAlive: true, useNewUrlParser: true });
 
 app.use(function (req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
@@ -68,8 +68,8 @@ app.get('/pricing/relative', (req, res) => {
     });
 });
 
-mongoose.connection
-    .on('error', console.error)
-    .once('open', () => {
-        app.listen(port, () => console.log(`Listening on port ${port}!`));
-    });
+// mongoose.connection
+//     .on('error', console.error)
+//     .once('open', () => {
+//         app.listen(port, () => console.log(`Listening on port ${port}!`));
+//     });
