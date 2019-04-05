@@ -68,6 +68,24 @@ app.get('/pricing/relative', (req, res) => {
     });
 });
 
+app.get('/pricing/hk', (req, res) => {
+    const code = req.query.code || '83079';
+    const relative = req.query.relative || '83079';
+    const start_date = req.query.start_date || '2017-01-01';
+    const end_date = req.query.end_date || '2019-01-01';
+    const options = {
+        uri: `https://www.quandl.com/api/v3/datasets/HKEX/${code}?start_date=${start_date}&end_date=${end_date}&api_key=${QUANDL_API_KEY}`,
+        json: true
+    };
+    rp(options).then(results => {
+        if (!results.dataset || !results.dataset.data) {
+            console.log('No data');
+            res.end();
+        }
+        res.send(results.dataset);
+    });
+});
+
 app.use(express.static('public'));
 
 app.listen(port, () => console.log(`Listening on port ${port}!`));
