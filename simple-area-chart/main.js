@@ -19,7 +19,7 @@ const bisectId = d3.bisector(function (d) {
     return d.id;
 }).left;
 
-d3.json('http://localhost:3000/pricing').then((data) => {
+d3.json('https://mm-api-playground.herokuapp.com/pricing').then((data) => {
 
     const sources = data.map((d, idx) => {
         return {
