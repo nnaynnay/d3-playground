@@ -68,6 +68,8 @@ app.get('/pricing/relative', (req, res) => {
     });
 });
 
+app.listen(port, () => console.log(`Listening on port ${port}!`));
+
 // mongoose.connection
 //     .on('error', console.error)
 //     .once('open', () => {
