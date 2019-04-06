@@ -1,3 +1,8 @@
+body {
+    font-family: 'Roboto';
+}
+
+.content,
 svg {
     margin: 0 auto;
     display: block;
@@ -6,7 +11,13 @@ svg {
 .overlay {
     fill: none;
     pointer-events: all;
-    cursor: crosshair;
+    cursor: 3crosshair;
+}
+
+.line {
+    fill: none;
+    stroke: #21825C;
+    stroke-width: 2px;
 }
 
 .tooltip-text {
@@ -27,11 +38,34 @@ svg {
 .tooltip-box {
     font-family: 'Oswald', sans-serif;
     font-size: 36px;
-    fill: rgb(0, 52, 89);
+}
+
+.tooltip-box .price {
+    font-size: 36px;
+    fill: #333;
+}
+
+.tooltip-box .date {
+    font-size: 18px;
+    fill: #ccc;
 }
 
 .tooltip-box rect {
     fill: rgba(255, 255, 255, .9);
     stroke: #AAA;
     stroke-width: 1px;
+}
+
+/** Content **/
+.content {
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+p {
+    color: #AAA;
+    font-size: 16px;
 }
